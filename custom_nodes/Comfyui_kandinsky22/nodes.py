@@ -8,7 +8,7 @@ from .logic.kandinsky22decoder import load_decoder_kandinsky22, prepare_latents,
     prepare_latents_on_img, combine_hint_latents
 from .logic.kandinsky22prior import load_prior_kandinsky22, encode_image, encode_text
 import os # middlek
-from Favorfit_custom.Favorfit_utils.utils import get_model_list # middlek
+from custom_nodes.Favorfit_custom.Favorfit_utils.utils import get_model_list # middlek
 
 MANIFEST = {
     "name": "Kandinsky 2.2 Nodes",

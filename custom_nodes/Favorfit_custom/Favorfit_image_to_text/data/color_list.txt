@@ -1,0 +1,44 @@
+beige
+bistre
+black
+blue
+blue green
+blue violet
+bondi blue
+bronze
+brown
+buff
+burgundy
+carmine
+celadon
+cerulean
+charcoal
+chartreuse
+cobalt
+crimson
+cyan
+gold
+goldenrod
+green
+grey
+ivory
+jade
+khaki
+lavender
+magenta
+mauve
+mint
+navy blue
+navy
+ochre
+olive green
+orange
+pink
+purple
+red
+sandy brown
+silver
+sky blue
+violet
+white
+yellow

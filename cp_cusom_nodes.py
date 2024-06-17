@@ -46,6 +46,12 @@ def copy_directory(src_dir, copyignore_path):
             src_file = os.path.join(root, file)
             dest_file = os.path.join(dest_dir, file)
 
+            # 파일 크기 체크
+            file_size = os.path.getsize(src_file)
+            if file_size > 100 * 1024 * 1024:
+                print(f"Skipping {src_file} (size: {file_size} bytes)")
+                continue
+
             # .copyignore에 명시된 파일 제외
             if is_ignored(os.path.join(rel_path, file), ignore_patterns):
                 continue

@@ -1,0 +1,38 @@
+fog
+rain
+sunny
+cloudy
+mist
+Indirect Light
+flash Light
+Thunder
+Blistering Solar Flare
+Apocalyptic Thunderstorm
+Blizzard Fury
+Maelstrom at Sea
+Crimson Sunset in the Desert
+Tornado Ripping Through Farmland
+Lightning Striking a Lone Tree
+Supernatural Aurora Over Snowy Peaks
+Cataclysmic Hurricane Eye
+Rain of Fire
+Icy Hand of Winter
+Mirage in Scorching Heat
+Typhoon Onslaught on Coastal Village
+Polar Vortex Freeze
+Celestial Comet Over Night Sky
+Torrential Monsoon Floods
+Sandstorm Engulfing a City
+Rainbow Bridge Across a Waterfall
+Earthquake Splitting Ground
+Volcanic Eruption at Night
+Dazzling Lightning Web
+Sudden Hailstorm Assault
+Solar Eclipse Chilling Daylight
+Fog Creeping Through an Abandoned Town
+Meteor Shower Illuminating the Desert
+Tsunami's Towering Wave
+Harsh Drought Cracking Earth
+Frostbite Morning with Frozen Lakes
+Whirlwind in a Mystical Forest
+Acid Rain in a Polluted City

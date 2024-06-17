@@ -1,0 +1,11 @@
+.venv/
+*.jpg
+*.png
+__pycache__/
+docker_files/
+.gitignore
+dependency_check.json
+dependency_check.py
+dependency_test_script.py
+api_app.py
+README.md

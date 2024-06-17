@@ -1,0 +1,7 @@
+.venv/
+*.jpg
+*.png
+__pycache__/
+docker_files/
+.gitignore
+README.md

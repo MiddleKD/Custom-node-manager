@@ -519,7 +519,7 @@
         },
         {
             "author": "BadCafeCode",
-            "description": "This is a node pack for ComfyUI, primarily dealing with masks.",
+            "description": "This is a low-dependency node pack primarily dealing with masks. The author recommends using Impact-Pack instead (unless you specifically have trouble installing dependencies).",
             "files": [
                 "https://github.com/BadCafeCode/masquerade-nodes-comfyui"
             ],
@@ -1436,6 +1436,17 @@
             "title": "asagi4/comfyui-utility-nodes"
         },
         {
+            "author": "asagi4",
+            "description": "An implementation of adaptive guidance for ComfyUI\nSee [a/https://bcv-uniandes.github.io/adaptiveguidance-wp/](https://bcv-uniandes.github.io/adaptiveguidance-wp/)",
+            "files": [
+                "https://github.com/asagi4/ComfyUI-Adaptive-Guidance"
+            ],
+            "id": "asagi-nodes",
+            "install_type": "git-clone",
+            "reference": "https://github.com/asagi4/ComfyUI-Adaptive-Guidance",
+            "title": "Adaptive Guidance for ComfyUI"
+        },
+        {
             "author": "jamesWalker55",
             "description": "Nodes: P2LDGAN. This integrates P2LDGAN into ComfyUI. P2LDGAN extracts lineart from input images.\n[w/To use this extension, you need to download the [a/p2ldgan model](https://drive.google.com/file/d/1To4V_Btc3QhCLBWZ0PdSNgC1cbm3isHP) and save it in the %%ComfyUI/custom_nodes/comfyui-p2ldgan/checkpoints%% directory.]",
             "files": [
@@ -1885,6 +1896,17 @@
             "install_type": "git-clone",
             "reference": "https://github.com/Extraltodeus/Stable-Diffusion-temperature-settings",
             "title": "Stable-Diffusion-temperature-settings"
+        },
+        {
+            "author": "Extraltodeus",
+            "description": "Allows to sample without generating any uncond with Stable Diffusion!",
+            "files": [
+                "https://github.com/Extraltodeus/Uncond-Zero-for-ComfyUI"
+            ],
+            "id": "uncond-zero",
+            "install_type": "git-clone",
+            "reference": "https://github.com/Extraltodeus/Uncond-Zero-for-ComfyUI",
+            "title": "Uncond-Zero-for-ComfyUI"
         },
         {
             "author": "JPS",
@@ -2604,6 +2626,17 @@
             "title": "ComfyUI-StyleGan"
         },
         {
+            "author": "spacepxl",
+            "description": "[a/https://huggingface.co/microsoft/Florence-2-large-ft](https://huggingface.co/microsoft/Florence-2-large-ft)\nLarge or base model, support for captioning and bbox task modes, more coming soon.",
+            "files": [
+                "https://github.com/spacepxl/ComfyUI-Florence-2"
+            ],
+            "id": "florence2-spacepxl",
+            "install_type": "git-clone",
+            "reference": "https://github.com/spacepxl/ComfyUI-Florence-2",
+            "title": "ComfyUI-Florence-2"
+        },
+        {
             "author": "PTA",
             "description": "A ComfyUI extension to apply better nodes layout algorithm to ComfyUI workflow (mostly for visualization purpose)",
             "files": [
@@ -2846,7 +2879,7 @@
             "title": "ComfyUI-DDColor"
         },
         {
-            "author": "Kijai",
+            "author": "kijai",
             "description": "This is a trainer for AnimateDiff MotionLoRAs, based on the implementation of MotionDirector by ExponentialML.\nNOTE:[a/ADMotionDirector](https://github.com/ExponentialML/AnimateDiff-MotionDirector)",
             "files": [
                 "https://github.com/kijai/ComfyUI-ADMotionDirector"
@@ -2964,6 +2997,28 @@
             "title": "ComfyUI-DepthAnythingV2"
         },
         {
+            "author": "kijai",
+            "description": "ComfyUI nodes to use Microsoft's Florence2 vision model. Supports captioning, object detection and segmentation",
+            "files": [
+                "https://github.com/kijai/ComfyUI-Florence2"
+            ],
+            "id": "florence2-kijai",
+            "install_type": "git-clone",
+            "reference": "https://github.com/kijai/ComfyUI-Florence2",
+            "title": "ComfyUI-Florence2"
+        },
+        {
+            "author": "kijai",
+            "description": "ComfyUI wrapper nodes for Lumina models",
+            "files": [
+                "https://github.com/kijai/ComfyUI-LuminaWrapper"
+            ],
+            "id": "lumina",
+            "install_type": "git-clone",
+            "reference": "https://github.com/kijai/ComfyUI-LuminaWrapper",
+            "title": "ComfyUI-LuminaWrapper"
+        },
+        {
             "author": "hhhzzyang",
             "description": "Nodes: LamaaModelLoad, LamaApply, YamlConfigLoader. a costumer node is realized to remove anything/inpainting anything from a picture by mask inpainting.[w/WARN:This extension includes the entire model, which can result in a very long initial installation time, and there may be some compatibility issues with older dependencies and ComfyUI.]",
             "files": [
@@ -3028,6 +3083,17 @@
             "install_type": "git-clone",
             "reference": "https://github.com/TRI3D-LC/tri3d-comfyui-nodes",
             "title": "tri3d-comfyui-nodes"
+        },
+        {
+            "author": "TRI3D-LC",
+            "description": "Nodes: add-image-miro-board.",
+            "files": [
+                "https://github.com/TRI3D-LC/ComfyUI-MiroBoard"
+            ],
+            "id": "miroboard",
+            "install_type": "git-clone",
+            "reference": "https://github.com/TRI3D-LC/ComfyUI-MiroBoard",
+            "title": "ComfyUI-MiroBoard"
         },
         {
             "author": "storyicon",
@@ -4370,6 +4436,17 @@
             "install_type": "git-clone",
             "reference": "https://github.com/AustinMroz/ComfyUI-DynamicOversampling",
             "title": "DynamicOversampling"
+        },
+        {
+            "author": "AustinMroz",
+            "description": "Automatically creates checkpoints during workflow execution. If If an workflow is canceled or ComfyUI crashes mid-execution, then these checkpoints are used when the workflow is re-queued to resume execution with minimal progress loss.",
+            "files": [
+                "https://github.com/AustinMroz/ComfyUI-WorkflowCheckpointing"
+            ],
+            "id": "workflowcheckpointing",
+            "install_type": "git-clone",
+            "reference": "https://github.com/AustinMroz/ComfyUI-WorkflowCheckpointing",
+            "title": "ComfyUI-WorkflowCheckpointing"
         },
         {
             "author": "11cafe",
@@ -6513,9 +6590,21 @@
             "files": [
                 "https://github.com/kadirnar/ComfyUI-Transformers"
             ],
+            "id": "comfy-transformers",
             "install_type": "git-clone",
             "reference": "https://github.com/kadirnar/ComfyUI-Transformers",
             "title": "ComfyUI-Transformers"
+        },
+        {
+            "author": "kadirnar",
+            "description": "Nodes:Load Ultralytics Model, Ultralytics Inference, Ultralytics Visualization, Convert to Dictionary, BBox to XYWH",
+            "files": [
+                "https://github.com/kadirnar/ComfyUI-YOLO"
+            ],
+            "id": "comfy-yolo",
+            "install_type": "git-clone",
+            "reference": "https://github.com/kadirnar/ComfyUI-YOLO",
+            "title": "ComfyUI-YOLO"
         },
         {
             "author": "digitaljohn",
@@ -8111,7 +8200,7 @@
             "title": "ComfyUI-SD3-nodes"
         },
         {
-            "author": "kijai",
+            "author": "liusida",
             "description": "Load and apply B-LoRA models, currently B-LoRA models only works with SDXL (sdxl_base_1.0).",
             "files": [
                 "https://github.com/liusida/ComfyUI-B-LoRA"
@@ -8305,6 +8394,39 @@
             "install_type": "git-clone",
             "reference": "https://github.com/AIFSH/ComfyUI-MimicBrush",
             "title": "ComfyUI-MimicBrush"
+        },
+        {
+            "author": "AIFSH",
+            "description": "a comfyui custom node for [a/hallo](https://github.com/fudan-generative-vision/hallo)",
+            "files": [
+                "https://github.com/AIFSH/ComfyUI-Hallo"
+            ],
+            "id": "hallo",
+            "install_type": "git-clone",
+            "reference": "https://github.com/AIFSH/ComfyUI-Hallo",
+            "title": "ComfyUI-Hallo"
+        },
+        {
+            "author": "AIFSH",
+            "description": "a comfyui custom node for [a/UniAnimate](https://github.com/ali-vilab/UniAnimate)",
+            "files": [
+                "https://github.com/AIFSH/ComfyUI-UniAnimate"
+            ],
+            "id": "unianimate",
+            "install_type": "git-clone",
+            "reference": "https://github.com/AIFSH/ComfyUI-UniAnimate",
+            "title": "ComfyUI-UniAnimate"
+        },
+        {
+            "author": "AIFSH",
+            "description": "a comfyui custom node for [a/3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting),then you can render one image to zoom-in/dolly zoom/swing motion/circle motion video",
+            "files": [
+                "https://github.com/AIFSH/ComfyUI-3d-photo-inpainting"
+            ],
+            "id": "3d-photo-inpainting",
+            "install_type": "git-clone",
+            "reference": "https://github.com/AIFSH/ComfyUI-3d-photo-inpainting",
+            "title": "ComfyUI-3d-photo-inpainting"
         },
         {
             "author": "Koishi-Star",
@@ -9393,14 +9515,14 @@
         },
         {
             "author": "GraftingRayman",
-            "description": "Prompt and Masking nodes.",
+            "description": "Image Manipulation Nodes",
             "files": [
                 "https://github.com/GraftingRayman/ComfyUI_GraftingRayman"
             ],
-            "id": "gr-prompt-selector",
+            "id": "graftingrayman",
             "install_type": "git-clone",
             "reference": "https://github.com/GraftingRayman/ComfyUI_GraftingRayman",
-            "title": "GR Prompt Selector"
+            "title": "GraftingRayman"
         },
         {
             "author": "royceschultz",
@@ -10214,6 +10336,17 @@
             "title": "ComfyUI-NuA-FlashFace"
         },
         {
+            "author": "nuanarchy",
+            "description": "ComfyUI implementation of '[a/Blind Image Restoration via Fast Diffusion Inversion](https://github.com/hamadichihaoui/BIRD)' Original [a/article](https://arxiv.org/abs/2405.19572)",
+            "files": [
+                "https://github.com/nuanarchy/ComfyUI-NuA-BIRD"
+            ],
+            "id": "nua-bird",
+            "install_type": "git-clone",
+            "reference": "https://github.com/nuanarchy/ComfyUI-NuA-BIRD",
+            "title": "ComfyUI-NuA-BIRD"
+        },
+        {
             "author": "denfrost",
             "description": "Custom nodes make easy Advanced Workflows. Focus on Image/Video and ControlNet efficiency and performances. Manipulation of Latent Space, Automatic pipeline with a bit efforts.",
             "files": [
@@ -10400,17 +10533,6 @@
             "title": "ComfyUI-FrameSkipping"
         },
         {
-            "author": "zhulu111",
-            "description": "sdBxb, a tool that converts ComfyUI workflows into WeChat Mini Program, Douyin Mini Program, and H5 with one click, and supports payments.",
-            "files": [
-                "https://github.com/zhulu111/ComfyUI_Bxb"
-            ],
-            "id": "ComfyUI_Bxb",
-            "install_type": "git-clone",
-            "reference": "https://github.com/zhulu111/ComfyUI_Bxb",
-            "title": "ComfyUI_Bxb"
-        },
-        {
             "author": "SuperMasterBlasterLaser",
             "description": "Nodes:YOLO Classifier Model Loader, YOLO Classify.",
             "files": [
@@ -10420,6 +10542,50 @@
             "install_type": "git-clone",
             "reference": "https://github.com/SuperMasterBlasterLaser/ComfyUI_YOLO_Classifiers",
             "title": "ComfyUI_YOLO_Classifiers"
+        },
+        {
+            "author": "SamKhoze",
+            "description": "DeepFuze is a state-of-the-art deep learning tool that seamlessly integrates with ComfyUI to revolutionize facial transformations, lipsyncing, video generation, voice cloning, face swapping, and lipsync translation. Leveraging advanced algorithms, DeepFuze enables users to combine audio and video with unparalleled realism, ensuring perfectly synchronized facial movements. This innovative solution is ideal for content creators, animators, developers, and anyone seeking to elevate their video editing projects with sophisticated AI-driven features.",
+            "files": [
+                "https://github.com/SamKhoze/ComfyUI-DeepFuze"
+            ],
+            "id": "deepfuze",
+            "install_type": "git-clone",
+            "reference": "https://github.com/SamKhoze/ComfyUI-DeepFuze",
+            "title": "DeepFuze"
+        },
+        {
+            "author": "superyoman",
+            "description": "Unofficial Luma API-ComfyUI version.[w/WARN: This project is for learning purpose only!]",
+            "files": [
+                "https://github.com/superyoman/comfyui_lumaAPI"
+            ],
+            "id": "luma",
+            "install_type": "git-clone",
+            "reference": "https://github.com/superyoman/comfyui_lumaAPI",
+            "title": "comfyui_lumaAPI"
+        },
+        {
+            "author": "chris-the-wiz",
+            "description": "Edit embeddings with a curve. Actually should work on any 1D input tensor. Tested with IPAdapter-Plus.",
+            "files": [
+                "https://github.com/chris-the-wiz/EmbeddingsCurveEditor_ComfyUI"
+            ],
+            "id": "embeddings-curve-editor",
+            "install_type": "git-clone",
+            "reference": "https://github.com/chris-the-wiz/EmbeddingsCurveEditor_ComfyUI",
+            "title": "EmbeddingsCurveEditor_ComfyUI"
+        },
+        {
+            "author": "zhulu111",
+            "description": "sdBxb, a tool that converts ComfyUI workflows into WeChat Mini Program, Douyin Mini Program, and H5 with one click, and supports payments.",
+            "files": [
+                "https://github.com/zhulu111/ComfyUI_Bxb"
+            ],
+            "id": "ComfyUI_Bxb",
+            "install_type": "git-clone",
+            "reference": "https://github.com/zhulu111/ComfyUI_Bxb",
+            "title": "ComfyUI_Bxb"
         },
         {
             "author": "Ser-Hilary",

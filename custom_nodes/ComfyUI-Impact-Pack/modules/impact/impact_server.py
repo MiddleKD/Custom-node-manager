@@ -493,7 +493,7 @@ def onprompt_populate_wildcards(json_data):
                         continue
                 else:
                     input_seed = int(inputs['seed'])
-
+                print(inputs["wildcard_text"])
                 inputs['populated_text'] = wildcards.process(inputs['wildcard_text'], input_seed)
                 inputs['mode'] = False
 

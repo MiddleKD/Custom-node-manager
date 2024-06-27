@@ -5,7 +5,8 @@ from .Favorfit_image_to_text.node import FavorfitImageToText
 from .Favorfit_utils.node import (FavorfitMakeOutpaintCondition,
                                   FavorfitLoadEmbedTensor,
                                   FavorfitResizeDiffusionAvailable,
-                                  ApplyImageInject)
+                                  ApplyImageInject,
+                                  ResetModelPatcherCalculateWeight)
 from .Favorfit_kandinsky.nodes import (KandinskyControlnetLoader,
                                        KandinskyControlNetApply,
                                        KandinskyControlUnetDecoder,
@@ -24,6 +25,7 @@ NODE_CLASS_MAPPINGS = {
     "FavorfitLoadEmbedTensor": FavorfitLoadEmbedTensor,
     "FavorfitResizeDiffusionAvailable": FavorfitResizeDiffusionAvailable,
     "ApplyImageInject": ApplyImageInject,
+    "ResetModelPatcherCalculateWeight": ResetModelPatcherCalculateWeight,
 }
 NODE_DISPLAY_NAME_MAPPINGS = {
     "FavorfitRemoveBg": "Favorfit Remove Background",
@@ -37,6 +39,7 @@ NODE_DISPLAY_NAME_MAPPINGS = {
     "FavorfitLoadEmbedTensor": "Favorfit Load Embed Tensor",
     "FavorfitResizeDiffusionAvailable": "Favorfit Resize Dif Avail",
     "ApplyImageInject": "Favorfit Image Inject Ksampler",
+    "ResetModelPatcherCalculateWeight": "Favorfit reset modelpatcher to original calculate weight"
 }
 
 __all__ = ['NODE_CLASS_MAPPINGS', 'NODE_DISPLAY_NAME_MAPPINGS']

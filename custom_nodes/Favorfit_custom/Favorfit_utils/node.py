@@ -122,3 +122,21 @@ class ApplyImageInject:
             model.model_options["is_image_inject"] = {"start_sigma":start_sigma, "end_sigma":end_sigma}
 
         return (model, latents, )
+
+class ResetModelPatcherCalculateWeight:
+    @classmethod
+    def INPUT_TYPES(s):
+        return {"required": {"model":("MODEL", ),
+                             }}
+    RETURN_TYPES = ("MODEL",)
+    FUNCTION = "reset_moodelpatcher_weight"
+
+    CATEGORY = "Favorfit_custom"
+
+    def reset_moodelpatcher_weight(self, model:ModelPatcher):
+
+        if hasattr(model, "original_calculate_weight"):
+            model.calculate_weight = ModelPatcher.original_calculate_weight
+            ModelPatcher.calculate_weight = ModelPatcher.original_calculate_weight
+        
+        return (model, )

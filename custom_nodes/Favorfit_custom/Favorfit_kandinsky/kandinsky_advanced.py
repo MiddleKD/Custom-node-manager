@@ -150,7 +150,7 @@ def decode(
                 latents,
                 generator=generator,
             )[0]
-
+            
             if is_image_inject == True:
                 if i < len(timesteps)-1:
                     noise_timestep = timesteps[i + 1]

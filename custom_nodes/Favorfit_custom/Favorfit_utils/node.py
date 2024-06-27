@@ -1,8 +1,11 @@
 import os
+from comfy.model_patcher import ModelPatcher
+from comfy import model_management
 from Favorfit_utils.utils import (make_outpaint_condition, 
                                   get_embed_ts_file,
                                   resize_diffusion_available_size,
-                                  embed_ts_dir)
+                                  embed_ts_dir,
+                                  resize)
 
 class FavorfitMakeOutpaintCondition:
 
@@ -87,3 +90,35 @@ class FavorfitResizeDiffusionAvailable:
         resized_image_tensor = resize_diffusion_available_size(image, target_size, max_size, min_size)
         b, height, width, c = resized_image_tensor.shape
         return (resized_image_tensor, height, width)
+
+class ApplyImageInject:
+    @classmethod
+    def INPUT_TYPES(s):
+        return {"required": {"model":("MODEL", ),
+                             "latents": ("LATENT", ),
+                             "inject_image_embed": ("LATENT", ),
+                             "inject_mask": ("MASK",),
+                             "start_sigma": ("FLOAT", {"default": 15.0}),
+                             "end_sigma": ("FLOAT", {"default": 0.0})
+                             }}
+    RETURN_TYPES = ("MODEL", "LATENT",)
+    FUNCTION = "apply_image_inject"
+
+    CATEGORY = "Favorfit_custom"
+
+    def apply_image_inject(self, model, latents, inject_image_embed, inject_mask, start_sigma, end_sigma):
+        if isinstance(inject_image_embed, dict):
+            inject_image_embed = inject_image_embed["samples"]
+        b, c, h, w = inject_image_embed.shape
+        if len(inject_mask.shape) != 4:
+            inject_mask = inject_mask.unsqueeze(0)
+        
+        inject_image_embed = inject_image_embed.to(device=model_management.get_torch_device(), dtype=inject_image_embed.dtype)
+        inject_mask = resize(inject_mask, h, w).to(device=model_management.get_torch_device(), dtype=inject_image_embed.dtype)
+        
+        latents["samples"] = inject_image_embed
+        latents["noise_mask"] = inject_mask
+        if hasattr(model, "model_options"):
+            model.model_options["is_image_inject"] = {"start_sigma":start_sigma, "end_sigma":end_sigma}
+
+        return (model, latents, )

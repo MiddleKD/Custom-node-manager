@@ -4,7 +4,8 @@ from .Favorfit_remove_bg.node import FavorfitRemoveBg
 from .Favorfit_image_to_text.node import FavorfitImageToText
 from .Favorfit_utils.node import (FavorfitMakeOutpaintCondition,
                                   FavorfitLoadEmbedTensor,
-                                  FavorfitResizeDiffusionAvailable)
+                                  FavorfitResizeDiffusionAvailable,
+                                  ApplyImageInject)
 from .Favorfit_kandinsky.nodes import (KandinskyControlnetLoader,
                                        KandinskyControlNetApply,
                                        KandinskyControlUnetDecoder,
@@ -22,6 +23,7 @@ NODE_CLASS_MAPPINGS = {
     "Kandinsky22MovqEncoder":Kandinsky22MovqEncoder,
     "FavorfitLoadEmbedTensor": FavorfitLoadEmbedTensor,
     "FavorfitResizeDiffusionAvailable": FavorfitResizeDiffusionAvailable,
+    "ApplyImageInject": ApplyImageInject,
 }
 NODE_DISPLAY_NAME_MAPPINGS = {
     "FavorfitRemoveBg": "Favorfit Remove Background",
@@ -33,7 +35,8 @@ NODE_DISPLAY_NAME_MAPPINGS = {
     "KandinskyImageInject":"Kandinsky Image Inject Apply",
     "Kandinsky22MovqEncoder":"Kandinsky Movq Encoder",
     "FavorfitLoadEmbedTensor": "Favorfit Load Embed Tensor",
-    "FavorfitResizeDiffusionAvailable": "Favorfit Resize Dif Avail"
+    "FavorfitResizeDiffusionAvailable": "Favorfit Resize Dif Avail",
+    "ApplyImageInject": "Favorfit Image Inject Ksampler",
 }
 
 __all__ = ['NODE_CLASS_MAPPINGS', 'NODE_DISPLAY_NAME_MAPPINGS']

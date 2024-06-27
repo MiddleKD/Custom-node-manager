@@ -7,6 +7,7 @@
             "name": "TAESD3 Decoder",
             "reference": "https://github.com/madebyollin/taesd",
             "save_path": "vae_approx",
+            "size": "4.94MB",
             "type": "TAESD",
             "url": "https://github.com/madebyollin/taesd/raw/main/taesd3_decoder.pth"
         },
@@ -17,6 +18,7 @@
             "name": "TAESD3 Encoder",
             "reference": "https://github.com/madebyollin/taesd",
             "save_path": "vae_approx",
+            "size": "4.94MB",
             "type": "TAESD",
             "url": "https://github.com/madebyollin/taesd/raw/main/taesd3_encoder.pth"
         },
@@ -27,6 +29,7 @@
             "name": "TAESDXL Decoder",
             "reference": "https://github.com/madebyollin/taesd",
             "save_path": "vae_approx",
+            "size": "4.91MB",
             "type": "TAESD",
             "url": "https://github.com/madebyollin/taesd/raw/main/taesdxl_decoder.pth"
         },
@@ -37,6 +40,7 @@
             "name": "TAESDXL Encoder",
             "reference": "https://github.com/madebyollin/taesd",
             "save_path": "vae_approx",
+            "size": "4.91MB",
             "type": "TAESD",
             "url": "https://github.com/madebyollin/taesd/raw/main/taesdxl_encoder.pth"
         },
@@ -47,6 +51,7 @@
             "name": "TAESD Decoder",
             "reference": "https://github.com/madebyollin/taesd",
             "save_path": "vae_approx",
+            "size": "4.91MB",
             "type": "TAESD",
             "url": "https://github.com/madebyollin/taesd/raw/main/taesd_decoder.pth"
         },
@@ -57,6 +62,7 @@
             "name": "TAESD Encoder",
             "reference": "https://github.com/madebyollin/taesd",
             "save_path": "vae_approx",
+            "size": "4.91MB",
             "type": "TAESD",
             "url": "https://github.com/madebyollin/taesd/raw/main/taesd_encoder.pth"
         },
@@ -67,6 +73,7 @@
             "name": "RealESRGAN x2",
             "reference": "https://huggingface.co/ai-forever/Real-ESRGAN",
             "save_path": "default",
+            "size": "67.1MB",
             "type": "upscale",
             "url": "https://huggingface.co/ai-forever/Real-ESRGAN/resolve/main/RealESRGAN_x2.pth"
         },
@@ -77,6 +84,7 @@
             "name": "RealESRGAN x4",
             "reference": "https://huggingface.co/ai-forever/Real-ESRGAN",
             "save_path": "default",
+            "size": "67.0MB",
             "type": "upscale",
             "url": "https://huggingface.co/ai-forever/Real-ESRGAN/resolve/main/RealESRGAN_x4.pth"
         },
@@ -87,6 +95,7 @@
             "name": "ESRGAN x4",
             "reference": "https://huggingface.co/Afizi/ESRGAN_4x.pth",
             "save_path": "default",
+            "size": "66.9MB",
             "type": "upscale",
             "url": "https://huggingface.co/Afizi/ESRGAN_4x.pth/resolve/main/ESRGAN_4x.pth"
         },
@@ -97,6 +106,7 @@
             "name": "4x_foolhardy_Remacri",
             "reference": "https://huggingface.co/FacehugmanIII/4x_foolhardy_Remacri",
             "save_path": "default",
+            "size": "67.0MB",
             "type": "upscale",
             "url": "https://huggingface.co/FacehugmanIII/4x_foolhardy_Remacri/resolve/main/4x_foolhardy_Remacri.pth"
         },
@@ -107,6 +117,7 @@
             "name": "4x-AnimeSharp",
             "reference": "https://huggingface.co/Kim2091/AnimeSharp/",
             "save_path": "default",
+            "size": "67.0MB",
             "type": "upscale",
             "url": "https://huggingface.co/Kim2091/AnimeSharp/resolve/main/4x-AnimeSharp.pth"
         },
@@ -117,6 +128,7 @@
             "name": "4x-UltraSharp",
             "reference": "https://huggingface.co/Kim2091/UltraSharp/",
             "save_path": "default",
+            "size": "67.0MB",
             "type": "upscale",
             "url": "https://huggingface.co/Kim2091/UltraSharp/resolve/main/4x-UltraSharp.pth"
         },
@@ -127,6 +139,7 @@
             "name": "4x_NMKD-Siax_200k",
             "reference": "https://huggingface.co/gemasai/4x_NMKD-Siax_200k",
             "save_path": "default",
+            "size": "67.0MB",
             "type": "upscale",
             "url": "https://huggingface.co/gemasai/4x_NMKD-Siax_200k/resolve/main/4x_NMKD-Siax_200k.pth"
         },
@@ -137,6 +150,7 @@
             "name": "8x_NMKD-Superscale_150000_G",
             "reference": "https://huggingface.co/uwg/upscaler",
             "save_path": "default",
+            "size": "67.1MB",
             "type": "upscale",
             "url": "https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/8x_NMKD-Superscale_150000_G.pth"
         },
@@ -147,6 +161,7 @@
             "name": "8x_NMKD-Faces_160000_G",
             "reference": "https://huggingface.co/gemasai/8x_NMKD-Faces_160000_G/tree/main",
             "save_path": "default",
+            "size": "67.2MB",
             "type": "upscale",
             "url": "https://huggingface.co/gemasai/8x_NMKD-Faces_160000_G/resolve/main/8x_NMKD-Faces_160000_G.pth"
         },
@@ -157,6 +172,7 @@
             "name": "LDSR(Latent Diffusion Super Resolution)",
             "reference": "https://github.com/CompVis/latent-diffusion",
             "save_path": "upscale_models/ldsr",
+            "size": "2.04GB",
             "type": "upscale",
             "url": "https://heibox.uni-heidelberg.de/f/578df07c8fc04ffbadf3/?dl=1"
         },
@@ -167,6 +183,7 @@
             "name": "stabilityai/stable-diffusion-x4-upscaler",
             "reference": "https://huggingface.co/stabilityai/stable-diffusion-x4-upscaler",
             "save_path": "checkpoints/upscale",
+            "size": "3.53GB",
             "type": "checkpoints",
             "url": "https://huggingface.co/stabilityai/stable-diffusion-x4-upscaler/resolve/main/x4-upscaler-ema.safetensors"
         },
@@ -177,6 +194,7 @@
             "name": "Inswapper-fp16 (face swap)",
             "reference": "https://github.com/facefusion/facefusion-assets",
             "save_path": "insightface",
+            "size": "277.7MB",
             "type": "insightface",
             "url": "https://github.com/facefusion/facefusion-assets/releases/download/models/inswapper_128_fp16.onnx"
         },
@@ -187,6 +205,7 @@
             "name": "Inswapper (face swap)",
             "reference": "https://github.com/facefusion/facefusion-assets",
             "save_path": "insightface",
+            "size": "555.3MB",
             "type": "insightface",
             "url": "https://github.com/facefusion/facefusion-assets/releases/download/models/inswapper_128.onnx"
         },
@@ -197,6 +216,7 @@
             "name": "Deepbump",
             "reference": "https://github.com/HugoTini/DeepBump",
             "save_path": "deepbump",
+            "size": "26.7MB",
             "type": "deepbump",
             "url": "https://github.com/HugoTini/DeepBump/raw/master/deepbump256.onnx"
         },
@@ -207,6 +227,7 @@
             "name": "GFPGAN 1.3",
             "reference": "https://github.com/TencentARC/GFPGAN",
             "save_path": "face_restore",
+            "size": "348.6MB",
             "type": "face_restore",
             "url": "https://github.com/TencentARC/GFPGAN/releases/download/v1.3.0/GFPGANv1.3.pth"
         },
@@ -217,6 +238,7 @@
             "name": "GFPGAN 1.4",
             "reference": "https://github.com/TencentARC/GFPGAN",
             "save_path": "face_restore",
+            "size": "348.6MB",
             "type": "face_restore",
             "url": "https://github.com/TencentARC/GFPGAN/releases/download/v1.3.0/GFPGANv1.4.pth"
         },
@@ -227,6 +249,7 @@
             "name": "RestoreFormer",
             "reference": "https://github.com/TencentARC/GFPGAN",
             "save_path": "face_restore",
+            "size": "290.8MB",
             "type": "face_restore",
             "url": "https://github.com/TencentARC/GFPGAN/releases/download/v1.3.4/RestoreFormer.pth"
         },
@@ -237,6 +260,7 @@
             "name": "Stable Video Diffusion Image-to-Video",
             "reference": "https://huggingface.co/stabilityai/stable-video-diffusion-img2vid",
             "save_path": "checkpoints/SVD",
+            "size": "9.56GB",
             "type": "checkpoints",
             "url": "https://huggingface.co/stabilityai/stable-video-diffusion-img2vid/resolve/main/svd.safetensors"
         },
@@ -247,6 +271,7 @@
             "name": "stabilityai/Stable Zero123",
             "reference": "https://huggingface.co/stabilityai/stable-zero123",
             "save_path": "checkpoints/zero123",
+            "size": "8.58GB",
             "type": "zero123",
             "url": "https://huggingface.co/stabilityai/stable-zero123/resolve/main/stable_zero123.ckpt"
         },
@@ -257,6 +282,7 @@
             "name": "Stable Video Diffusion Image-to-Video (XT)",
             "reference": "https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt",
             "save_path": "checkpoints/SVD",
+            "size": "9.56GB",
             "type": "checkpoints",
             "url": "https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt/resolve/main/svd_xt.safetensors"
         },
@@ -267,6 +293,7 @@
             "name": "negative_hand Negative Embedding",
             "reference": "https://civitai.com/models/56519/negativehand-negative-embedding",
             "save_path": "default",
+            "size": "25KB",
             "type": "embeddings",
             "url": "https://civitai.com/api/download/models/60938"
         },
@@ -277,6 +304,7 @@
             "name": "bad_prompt Negative Embedding",
             "reference": "https://civitai.com/models/55700/badprompt-negative-embedding",
             "save_path": "default",
+            "size": "25KB",
             "type": "embeddings",
             "url": "https://civitai.com/api/download/models/60095"
         },
@@ -287,6 +315,7 @@
             "name": "Deep Negative V1.75",
             "reference": "https://civitai.com/models/4629/deep-negative-v1x",
             "save_path": "default",
+            "size": "226KB",
             "type": "embeddings",
             "url": "https://civitai.com/api/download/models/5637"
         },
@@ -297,6 +326,7 @@
             "name": "EasyNegative",
             "reference": "https://civitai.com/models/7808/easynegative",
             "save_path": "default",
+            "size": "25KB",
             "type": "embeddings",
             "url": "https://civitai.com/api/download/models/9208"
         },
@@ -307,6 +337,7 @@
             "name": "stabilityai/comfyui_checkpoints/stable_cascade_stage_b.safetensors",
             "reference": "https://huggingface.co/stabilityai/stable-cascade",
             "save_path": "checkpoints/Stable-Cascade",
+            "size": "4.55GB",
             "type": "checkpoints",
             "url": "https://huggingface.co/stabilityai/stable-cascade/resolve/main/comfyui_checkpoints/stable_cascade_stage_b.safetensors"
         },
@@ -317,6 +348,7 @@
             "name": "stabilityai/comfyui_checkpoints/stable_cascade_stage_c.safetensors",
             "reference": "https://huggingface.co/stabilityai/stable-cascade",
             "save_path": "checkpoints/Stable-Cascade",
+            "size": "9.22GB",
             "type": "checkpoints",
             "url": "https://huggingface.co/stabilityai/stable-cascade/resolve/main/comfyui_checkpoints/stable_cascade_stage_c.safetensors"
         },
@@ -327,6 +359,7 @@
             "name": "stabilityai/Stable Cascade: stage_a.safetensors (VAE)",
             "reference": "https://huggingface.co/stabilityai/stable-cascade",
             "save_path": "vae/Stable-Cascade",
+            "size": "73.7MB",
             "type": "VAE",
             "url": "https://huggingface.co/stabilityai/stable-cascade/resolve/main/stage_a.safetensors"
         },
@@ -337,6 +370,7 @@
             "name": "stabilityai/Stable Cascade: effnet_encoder.safetensors (VAE)",
             "reference": "https://huggingface.co/stabilityai/stable-cascade",
             "save_path": "vae/Stable-Cascade",
+            "size": "81.5MB",
             "type": "VAE",
             "url": "https://huggingface.co/stabilityai/stable-cascade/resolve/main/effnet_encoder.safetensors"
         },
@@ -347,6 +381,7 @@
             "name": "stabilityai/Stable Cascade: stage_b.safetensors (UNET)",
             "reference": "https://huggingface.co/stabilityai/stable-cascade",
             "save_path": "unet/Stable-Cascade",
+            "size": "6.25GB",
             "type": "unet",
             "url": "https://huggingface.co/stabilityai/stable-cascade/resolve/main/stage_b.safetensors"
         },
@@ -357,6 +392,7 @@
             "name": "stabilityai/Stable Cascade: stage_b_bf16.safetensors (UNET)",
             "reference": "https://huggingface.co/stabilityai/stable-cascade",
             "save_path": "unet/Stable-Cascade",
+            "size": "3.13GB",
             "type": "unet",
             "url": "https://huggingface.co/stabilityai/stable-cascade/resolve/main/stage_b_bf16.safetensors"
         },
@@ -367,6 +403,7 @@
             "name": "stabilityai/Stable Cascade: stage_b_lite.safetensors (UNET)",
             "reference": "https://huggingface.co/stabilityai/stable-cascade",
             "save_path": "unet/Stable-Cascade",
+            "size": "2.80GB",
             "type": "unet",
             "url": "https://huggingface.co/stabilityai/stable-cascade/resolve/main/stage_b_lite.safetensors"
         },
@@ -377,6 +414,7 @@
             "name": "stabilityai/Stable Cascade: stage_b_lite.safetensors (UNET)",
             "reference": "https://huggingface.co/stabilityai/stable-cascade",
             "save_path": "unet/Stable-Cascade",
+            "size": "1.40GB",
             "type": "unet",
             "url": "https://huggingface.co/stabilityai/stable-cascade/resolve/main/stage_b_lite_bf16.safetensors"
         },
@@ -387,6 +425,7 @@
             "name": "stabilityai/Stable Cascade: stage_c.safetensors (UNET)",
             "reference": "https://huggingface.co/stabilityai/stable-cascade",
             "save_path": "unet/Stable-Cascade",
+            "size": "14.4GB",
             "type": "unet",
             "url": "https://huggingface.co/stabilityai/stable-cascade/resolve/main/stage_c.safetensors"
         },
@@ -397,6 +436,7 @@
             "name": "stabilityai/Stable Cascade: stage_c_bf16.safetensors (UNET)",
             "reference": "https://huggingface.co/stabilityai/stable-cascade",
             "save_path": "unet/Stable-Cascade",
+            "size": "7.18GB",
             "type": "unet",
             "url": "https://huggingface.co/stabilityai/stable-cascade/resolve/main/stage_c_bf16.safetensors"
         },
@@ -407,6 +447,7 @@
             "name": "stabilityai/Stable Cascade: stage_c_lite.safetensors (UNET)",
             "reference": "https://huggingface.co/stabilityai/stable-cascade",
             "save_path": "unet/Stable-Cascade",
+            "size": "4.12GB",
             "type": "unet",
             "url": "https://huggingface.co/stabilityai/stable-cascade/resolve/main/stage_c_lite.safetensors"
         },
@@ -417,6 +458,7 @@
             "name": "stabilityai/Stable Cascade: stage_c_lite.safetensors (UNET)",
             "reference": "https://huggingface.co/stabilityai/stable-cascade",
             "save_path": "unet/Stable-Cascade",
+            "size": "2.06GB",
             "type": "unet",
             "url": "https://huggingface.co/stabilityai/stable-cascade/resolve/main/stage_c_lite_bf16.safetensors"
         },
@@ -427,6 +469,7 @@
             "name": "stabilityai/Stable Cascade: text_encoder (CLIP)",
             "reference": "https://huggingface.co/stabilityai/stable-cascade",
             "save_path": "clip/Stable-Cascade",
+            "size": "1.39GB",
             "type": "clip",
             "url": "https://huggingface.co/stabilityai/stable-cascade/resolve/main/text_encoder/model.safetensors"
         },
@@ -437,6 +480,7 @@
             "name": "SDXL-Turbo 1.0 (fp16)",
             "reference": "https://huggingface.co/stabilityai/sdxl-turbo",
             "save_path": "checkpoints/SDXL-TURBO",
+            "size": "6.94GB",
             "type": "checkpoints",
             "url": "https://huggingface.co/stabilityai/sdxl-turbo/resolve/main/sd_xl_turbo_1.0_fp16.safetensors"
         },
@@ -447,6 +491,7 @@
             "name": "SDXL-Turbo 1.0",
             "reference": "https://huggingface.co/stabilityai/sdxl-turbo",
             "save_path": "checkpoints/SDXL-TURBO",
+            "size": "13.9GB",
             "type": "checkpoints",
             "url": "https://huggingface.co/stabilityai/sdxl-turbo/resolve/main/sd_xl_turbo_1.0.safetensors"
         },
@@ -457,6 +502,7 @@
             "name": "sd_xl_base_1.0_0.9vae.safetensors",
             "reference": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0",
             "save_path": "default",
+            "size": "6.94GB",
             "type": "checkpoints",
             "url": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0_0.9vae.safetensors"
         },
@@ -467,6 +513,7 @@
             "name": "sd_xl_base_1.0.safetensors",
             "reference": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0",
             "save_path": "default",
+            "size": "6.94GB",
             "type": "checkpoints",
             "url": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
         },
@@ -477,6 +524,7 @@
             "name": "sd_xl_refiner_1.0_0.9vae.safetensors",
             "reference": "https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0",
             "save_path": "default",
+            "size": "6.08GB",
             "type": "checkpoints",
             "url": "https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0_0.9vae.safetensors"
         },
@@ -487,6 +535,7 @@
             "name": "stable-diffusion-xl-refiner-1.0",
             "reference": "https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0",
             "save_path": "default",
+            "size": "6.08GB",
             "type": "checkpoints",
             "url": "https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
         },
@@ -497,6 +546,7 @@
             "name": "diffusers/stable-diffusion-xl-1.0-inpainting-0.1 (UNET/fp16)",
             "reference": "https://huggingface.co/diffusers/stable-diffusion-xl-1.0-inpainting-0.1",
             "save_path": "unet/xl-inpaint-0.1",
+            "size": "5.14GB",
             "type": "unet",
             "url": "https://huggingface.co/diffusers/stable-diffusion-xl-1.0-inpainting-0.1/resolve/main/unet/diffusion_pytorch_model.fp16.safetensors"
         },
@@ -507,6 +557,7 @@
             "name": "diffusers/stable-diffusion-xl-1.0-inpainting-0.1 (UNET)",
             "reference": "https://huggingface.co/diffusers/stable-diffusion-xl-1.0-inpainting-0.1",
             "save_path": "unet/xl-inpaint-0.1",
+            "size": "10.3GB",
             "type": "unet",
             "url": "https://huggingface.co/diffusers/stable-diffusion-xl-1.0-inpainting-0.1/resolve/main/unet/diffusion_pytorch_model.safetensors"
         },
@@ -517,6 +568,7 @@
             "name": "sd_xl_offset_example-lora_1.0.safetensors",
             "reference": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0",
             "save_path": "default",
+            "size": "49.6MB",
             "type": "lora",
             "url": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors"
         },
@@ -527,6 +579,7 @@
             "name": "SDXL Lightning LoRA (2step)",
             "reference": "https://huggingface.co/ByteDance/SDXL-Lightning",
             "save_path": "loras/SDXL-Lightning",
+            "size": "393.9MB",
             "type": "lora",
             "url": "https://huggingface.co/ByteDance/SDXL-Lightning/resolve/main/sdxl_lightning_2step_lora.safetensors"
         },
@@ -537,6 +590,7 @@
             "name": "SDXL Lightning LoRA (4step)",
             "reference": "https://huggingface.co/ByteDance/SDXL-Lightning",
             "save_path": "loras/SDXL-Lightning",
+            "size": "393.9MB",
             "type": "lora",
             "url": "https://huggingface.co/ByteDance/SDXL-Lightning/resolve/main/sdxl_lightning_4step_lora.safetensors"
         },
@@ -547,8 +601,20 @@
             "name": "SDXL Lightning LoRA (8step)",
             "reference": "https://huggingface.co/ByteDance/SDXL-Lightning",
             "save_path": "loras/SDXL-Lightning",
+            "size": "393.9MB",
             "type": "lora",
             "url": "https://huggingface.co/ByteDance/SDXL-Lightning/resolve/main/sdxl_lightning_8step_lora.safetensors"
+        },
+        {
+            "base": "t5-base",
+            "description": "[892MB] T5 Base: Text-To-Text Transfer Transformer. This model can be loaded via CLIPLoader for Stable Audio workflow.",
+            "filename": "model.safetensors",
+            "name": "google-t5/t5-base",
+            "reference": "https://huggingface.co/google-t5/t5-base",
+            "save_path": "clip/t5-base",
+            "size": "892MB",
+            "type": "clip",
+            "url": "https://huggingface.co/google-t5/t5-base/resolve/main/model.safetensors"
         },
         {
             "base": "SD1.5",
@@ -557,6 +623,7 @@
             "name": "v1-5-pruned-emaonly.ckpt",
             "reference": "https://huggingface.co/runwayml/stable-diffusion-v1-5",
             "save_path": "default",
+            "size": "4.27GB",
             "type": "checkpoints",
             "url": "https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt"
         },
@@ -567,6 +634,7 @@
             "name": "v2-1_512-ema-pruned.safetensors",
             "reference": "https://huggingface.co/stabilityai/stable-diffusion-2-1-base",
             "save_path": "default",
+            "size": "5.21GB",
             "type": "checkpoints",
             "url": "https://huggingface.co/stabilityai/stable-diffusion-2-1-base/resolve/main/v2-1_512-ema-pruned.safetensors"
         },
@@ -577,6 +645,7 @@
             "name": "v2-1_768-ema-pruned.safetensors",
             "reference": "https://huggingface.co/stabilityai/stable-diffusion-2-1",
             "save_path": "default",
+            "size": "5.21GB",
             "type": "checkpoints",
             "url": "https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-ema-pruned.safetensors"
         },
@@ -587,6 +656,7 @@
             "name": "AbyssOrangeMix2 (hard)",
             "reference": "https://huggingface.co/WarriorMama777/OrangeMixs",
             "save_path": "default",
+            "size": "5.57GB",
             "type": "checkpoints",
             "url": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix2/AbyssOrangeMix2_hard.safetensors"
         },
@@ -597,6 +667,7 @@
             "name": "AbyssOrangeMix3 A1",
             "reference": "https://huggingface.co/WarriorMama777/OrangeMixs",
             "save_path": "default",
+            "size": "2.13GB",
             "type": "checkpoints",
             "url": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix3/AOM3A1_orangemixs.safetensors"
         },
@@ -607,6 +678,7 @@
             "name": "AbyssOrangeMix3 A3",
             "reference": "https://huggingface.co/WarriorMama777/OrangeMixs",
             "save_path": "default",
+            "size": "2.13GB",
             "type": "checkpoints",
             "url": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix3/AOM3A3_orangemixs.safetensors"
         },
@@ -617,6 +689,7 @@
             "name": "Waifu Diffusion 1.5 Beta3 (fp16)",
             "reference": "https://huggingface.co/waifu-diffusion/wd-1-5-beta3",
             "save_path": "default",
+            "size": "2.58GB",
             "type": "checkpoints",
             "url": "https://huggingface.co/waifu-diffusion/wd-1-5-beta3/resolve/main/wd-illusion-fp16.safetensors"
         },
@@ -627,6 +700,7 @@
             "name": "illuminatiDiffusionV1_v11 unCLIP model",
             "reference": "https://huggingface.co/comfyanonymous/illuminatiDiffusionV1_v11_unCLIP",
             "save_path": "default",
+            "size": "3.98GB",
             "type": "unclip",
             "url": "https://huggingface.co/comfyanonymous/illuminatiDiffusionV1_v11_unCLIP/resolve/main/illuminatiDiffusionV1_v11-unclip-h-fp16.safetensors"
         },
@@ -637,6 +711,7 @@
             "name": "Waifu Diffusion 1.5 unCLIP model",
             "reference": "https://huggingface.co/comfyanonymous/wd-1.5-beta2_unCLIP",
             "save_path": "default",
+            "size": "3.98GB",
             "type": "unclip",
             "url": "https://huggingface.co/comfyanonymous/wd-1.5-beta2_unCLIP/resolve/main/wd-1-5-beta2-aesthetic-unclip-h-fp16.safetensors"
         },
@@ -647,6 +722,7 @@
             "name": "sdxl_vae.safetensors",
             "reference": "https://huggingface.co/stabilityai/sdxl-vae",
             "save_path": "default",
+            "size": "334.6MB",
             "type": "VAE",
             "url": "https://huggingface.co/stabilityai/sdxl-vae/resolve/main/sdxl_vae.safetensors"
         },
@@ -657,6 +733,7 @@
             "name": "vae-ft-mse-840000-ema-pruned",
             "reference": "https://huggingface.co/stabilityai/sd-vae-ft-mse-original",
             "save_path": "default",
+            "size": "334.6MB",
             "type": "VAE",
             "url": "https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.safetensors"
         },
@@ -667,6 +744,7 @@
             "name": "orangemix.vae",
             "reference": "https://huggingface.co/WarriorMama777/OrangeMixs",
             "save_path": "default",
+            "size": "822.8MB",
             "type": "VAE",
             "url": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/VAEs/orangemix.vae.pt"
         },
@@ -677,6 +755,7 @@
             "name": "kl-f8-anime2",
             "reference": "https://huggingface.co/hakurei/waifu-diffusion-v1-4",
             "save_path": "default",
+            "size": "404.7MB",
             "type": "VAE",
             "url": "https://huggingface.co/hakurei/waifu-diffusion-v1-4/resolve/main/vae/kl-f8-anime2.ckpt"
         },
@@ -687,6 +766,7 @@
             "name": "OpenAI Consistency Decoder",
             "reference": "https://github.com/openai/consistencydecoder",
             "save_path": "vae/openai_consistency_decoder",
+            "size": "2.49GB",
             "type": "VAE",
             "url": "https://openaipublic.azureedge.net/diff-vae/c9cebd3132dd9c42936d803e33424145a748843c8f716c0814838bdc8a2fe7cb/decoder.pt"
         },
@@ -697,6 +777,7 @@
             "name": "LCM LoRA SD1.5",
             "reference": "https://huggingface.co/latent-consistency/lcm-lora-sdv1-5",
             "save_path": "loras/lcm/SD1.5",
+            "size": "134.6MB",
             "type": "lora",
             "url": "https://huggingface.co/latent-consistency/lcm-lora-sdv1-5/resolve/main/pytorch_lora_weights.safetensors"
         },
@@ -707,6 +788,7 @@
             "name": "LCM LoRA SSD-1B",
             "reference": "https://huggingface.co/latent-consistency/lcm-lora-ssd-1b",
             "save_path": "loras/lcm/SSD-1B",
+            "size": "210.0MB",
             "type": "lora",
             "url": "https://huggingface.co/latent-consistency/lcm-lora-ssd-1b/resolve/main/pytorch_lora_weights.safetensors"
         },
@@ -717,6 +799,7 @@
             "name": "LCM LoRA SDXL",
             "reference": "https://huggingface.co/latent-consistency/lcm-lora-sdxl",
             "save_path": "loras/lcm/SDXL",
+            "size": "393.9MB",
             "type": "lora",
             "url": "https://huggingface.co/latent-consistency/lcm-lora-sdxl/resolve/main/pytorch_lora_weights.safetensors"
         },
@@ -727,6 +810,7 @@
             "name": "Segmind-Vega",
             "reference": "https://huggingface.co/segmind/Segmind-Vega",
             "save_path": "checkpoints/segmind-vega",
+            "size": "3.29GB",
             "type": "checkpoints",
             "url": "https://huggingface.co/segmind/Segmind-Vega/resolve/main/segmind-vega.safetensors"
         },
@@ -737,6 +821,7 @@
             "name": "Segmind-VegaRT - Latent Consistency Model (LCM) LoRA of Segmind-Vega",
             "reference": "https://huggingface.co/segmind/Segmind-VegaRT",
             "save_path": "loras/segmind-vega",
+            "size": "239.2MB",
             "type": "lora",
             "url": "https://huggingface.co/segmind/Segmind-VegaRT/resolve/main/pytorch_lora_weights.safetensors"
         },
@@ -747,6 +832,7 @@
             "name": "Theovercomer8's Contrast Fix (SD2.1)",
             "reference": "https://civitai.com/models/8765/theovercomer8s-contrast-fix-sd15sd21-768",
             "save_path": "default",
+            "size": "163MB",
             "type": "lora",
             "url": "https://civitai.com/api/download/models/10350"
         },
@@ -757,6 +843,7 @@
             "name": "Theovercomer8's Contrast Fix (SD1.5)",
             "reference": "https://civitai.com/models/8765/theovercomer8s-contrast-fix-sd15sd21-768",
             "save_path": "default",
+            "size": "113MB",
             "type": "lora",
             "url": "https://civitai.com/api/download/models/10638"
         },
@@ -767,6 +854,7 @@
             "name": "T2I-Adapter (depth)",
             "reference": "https://huggingface.co/TencentARC/T2I-Adapter",
             "save_path": "default",
+            "size": "309.5MB",
             "type": "T2I-Adapter",
             "url": "https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_depth_sd14v1.pth"
         },
@@ -777,6 +865,7 @@
             "name": "T2I-Adapter (seg)",
             "reference": "https://huggingface.co/TencentARC/T2I-Adapter",
             "save_path": "default",
+            "size": "309.5MB",
             "type": "T2I-Adapter",
             "url": "https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_seg_sd14v1.pth"
         },
@@ -787,6 +876,7 @@
             "name": "T2I-Adapter (sketch)",
             "reference": "https://huggingface.co/TencentARC/T2I-Adapter",
             "save_path": "default",
+            "size": "308.0MB",
             "type": "T2I-Adapter",
             "url": "https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_sketch_sd14v1.pth"
         },
@@ -797,6 +887,7 @@
             "name": "T2I-Adapter (keypose)",
             "reference": "https://huggingface.co/TencentARC/T2I-Adapter",
             "save_path": "default",
+            "size": "309.5MB",
             "type": "T2I-Adapter",
             "url": "https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_keypose_sd14v1.pth"
         },
@@ -807,6 +898,7 @@
             "name": "T2I-Adapter (openpose)",
             "reference": "https://huggingface.co/TencentARC/T2I-Adapter",
             "save_path": "default",
+            "size": "309.5MB",
             "type": "T2I-Adapter",
             "url": "https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_openpose_sd14v1.pth"
         },
@@ -817,6 +909,7 @@
             "name": "T2I-Adapter (color)",
             "reference": "https://huggingface.co/TencentARC/T2I-Adapter",
             "save_path": "default",
+            "size": "74.8MB",
             "type": "T2I-Adapter",
             "url": "https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_color_sd14v1.pth"
         },
@@ -827,6 +920,7 @@
             "name": "T2I-Adapter (canny)",
             "reference": "https://huggingface.co/TencentARC/T2I-Adapter",
             "save_path": "default",
+            "size": "308.0MB",
             "type": "T2I-Adapter",
             "url": "https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_canny_sd14v1.pth"
         },
@@ -837,6 +931,7 @@
             "name": "T2I-Style model",
             "reference": "https://huggingface.co/TencentARC/T2I-Adapter",
             "save_path": "default",
+            "size": "154.4MB",
             "type": "T2I-Style",
             "url": "https://huggingface.co/TencentARC/T2I-Adapter/resolve/main/models/t2iadapter_style_sd14v1.pth"
         },
@@ -847,6 +942,7 @@
             "name": "T2I-Adapter XL (lineart) FP16",
             "reference": "https://huggingface.co/TencentARC/t2i-adapter-lineart-sdxl-1.0",
             "save_path": "default",
+            "size": "158.1MB",
             "type": "T2I-Adapter",
             "url": "https://huggingface.co/TencentARC/t2i-adapter-lineart-sdxl-1.0/resolve/main/diffusion_pytorch_model.fp16.safetensors"
         },
@@ -857,6 +953,7 @@
             "name": "T2I-Adapter XL (canny) FP16",
             "reference": "https://huggingface.co/TencentARC/t2i-adapter-canny-sdxl-1.0",
             "save_path": "default",
+            "size": "158.1MB",
             "type": "T2I-Adapter",
             "url": "https://huggingface.co/TencentARC/t2i-adapter-canny-sdxl-1.0/resolve/main/diffusion_pytorch_model.fp16.safetensors"
         },
@@ -867,6 +964,7 @@
             "name": "T2I-Adapter XL (depth-zoe) FP16",
             "reference": "https://huggingface.co/TencentARC/t2i-adapter-depth-zoe-sdxl-1.0",
             "save_path": "default",
+            "size": "158.1MB",
             "type": "T2I-Adapter",
             "url": "https://huggingface.co/TencentARC/t2i-adapter-depth-zoe-sdxl-1.0/resolve/main/diffusion_pytorch_model.fp16.safetensors"
         },
@@ -877,6 +975,7 @@
             "name": "T2I-Adapter XL (depth-midas) FP16",
             "reference": "https://huggingface.co/TencentARC/t2i-adapter-depth-midas-sdxl-1.0",
             "save_path": "default",
+            "size": "158.1MB",
             "type": "T2I-Adapter",
             "url": "https://huggingface.co/TencentARC/t2i-adapter-depth-midas-sdxl-1.0/resolve/main/diffusion_pytorch_model.fp16.safetensors"
         },
@@ -887,6 +986,7 @@
             "name": "T2I-Adapter XL (sketch) FP16",
             "reference": "https://huggingface.co/TencentARC/t2i-adapter-sketch-sdxl-1.0",
             "save_path": "default",
+            "size": "158.1MB",
             "type": "T2I-Adapter",
             "url": "https://huggingface.co/TencentARC/t2i-adapter-sketch-sdxl-1.0/resolve/main/diffusion_pytorch_model.fp16.safetensors"
         },
@@ -897,6 +997,7 @@
             "name": "T2I-Adapter XL (lineart)",
             "reference": "https://huggingface.co/TencentARC/t2i-adapter-lineart-sdxl-1.0",
             "save_path": "default",
+            "size": "316.1MB",
             "type": "T2I-Adapter",
             "url": "https://huggingface.co/TencentARC/t2i-adapter-lineart-sdxl-1.0/resolve/main/diffusion_pytorch_model.safetensors"
         },
@@ -907,6 +1008,7 @@
             "name": "T2I-Adapter XL (canny)",
             "reference": "https://huggingface.co/TencentARC/t2i-adapter-canny-sdxl-1.0",
             "save_path": "default",
+            "size": "316.1MB",
             "type": "T2I-Adapter",
             "url": "https://huggingface.co/TencentARC/t2i-adapter-canny-sdxl-1.0/resolve/main/diffusion_pytorch_model.safetensors"
         },
@@ -917,6 +1019,7 @@
             "name": "T2I-Adapter XL (depth-zoe)",
             "reference": "https://huggingface.co/TencentARC/t2i-adapter-depth-zoe-sdxl-1.0",
             "save_path": "default",
+            "size": "316.1MB",
             "type": "T2I-Adapter",
             "url": "https://huggingface.co/TencentARC/t2i-adapter-depth-zoe-sdxl-1.0/resolve/main/diffusion_pytorch_model.safetensors"
         },
@@ -927,6 +1030,7 @@
             "name": "T2I-Adapter XL (depth-midas)",
             "reference": "https://huggingface.co/TencentARC/t2i-adapter-depth-midas-sdxl-1.0",
             "save_path": "default",
+            "size": "316.1MB",
             "type": "T2I-Adapter",
             "url": "https://huggingface.co/TencentARC/t2i-adapter-depth-midas-sdxl-1.0/resolve/main/diffusion_pytorch_model.safetensors"
         },
@@ -937,6 +1041,7 @@
             "name": "T2I-Adapter XL (sketch)",
             "reference": "https://huggingface.co/TencentARC/t2i-adapter-sketch-sdxl-1.0",
             "save_path": "default",
+            "size": "316.1MB",
             "type": "T2I-Adapter",
             "url": "https://huggingface.co/TencentARC/t2i-adapter-sketch-sdxl-1.0/resolve/main/diffusion_pytorch_model.safetensors"
         },
@@ -947,6 +1052,7 @@
             "name": "T2I-Adapter XL (openpose)",
             "reference": "https://huggingface.co/TencentARC/t2i-adapter-openpose-sdxl-1.0",
             "save_path": "default",
+            "size": "316.1MB",
             "type": "T2I-Adapter",
             "url": "https://huggingface.co/TencentARC/t2i-adapter-openpose-sdxl-1.0/resolve/main/diffusion_pytorch_model.safetensors"
         },
@@ -957,6 +1063,7 @@
             "name": "CiaraRowles/TemporalNet2",
             "reference": "https://huggingface.co/CiaraRowles/TemporalNet2",
             "save_path": "default",
+            "size": "5.71GB",
             "type": "controlnet",
             "url": "https://huggingface.co/CiaraRowles/TemporalNet2/resolve/main/temporalnetversion2.safetensors"
         },
@@ -967,6 +1074,7 @@
             "name": "CiaraRowles/TemporalNet1XL (1.0)",
             "reference": "https://huggingface.co/CiaraRowles/controlnet-temporalnet-sdxl-1.0",
             "save_path": "controlnet/TemporalNet1XL",
+            "size": "5.00GB",
             "type": "controlnet",
             "url": "https://huggingface.co/CiaraRowles/controlnet-temporalnet-sdxl-1.0/resolve/main/diffusion_pytorch_model.safetensors"
         },
@@ -977,6 +1085,7 @@
             "name": "CLIPVision model (stabilityai/clip_vision_g)",
             "reference": "https://huggingface.co/stabilityai/control-lora",
             "save_path": "clip_vision",
+            "size": "3.69GB",
             "type": "clip_vision",
             "url": "https://huggingface.co/stabilityai/control-lora/resolve/main/revision/clip_vision_g.safetensors"
         },
@@ -987,6 +1096,7 @@
             "name": "CLIPVision model (openai/clip-vit-large)",
             "reference": "https://huggingface.co/openai/clip-vit-large-patch14",
             "save_path": "clip_vision",
+            "size": "1.71GB",
             "type": "clip_vision",
             "url": "https://huggingface.co/openai/clip-vit-large-patch14/resolve/main/model.safetensors"
         },
@@ -997,6 +1107,7 @@
             "name": "CLIPVision model (IP-Adapter) CLIP-ViT-H-14-laion2B-s32B-b79K",
             "reference": "https://huggingface.co/h94/IP-Adapter",
             "save_path": "clip_vision",
+            "size": "2.53GB",
             "type": "clip_vision",
             "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/image_encoder/model.safetensors"
         },
@@ -1007,6 +1118,7 @@
             "name": "CLIPVision model (IP-Adapter) CLIP-ViT-bigG-14-laion2B-39B-b160k",
             "reference": "https://huggingface.co/h94/IP-Adapter",
             "save_path": "clip_vision",
+            "size": "3.69GB",
             "type": "clip_vision",
             "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/image_encoder/model.safetensors"
         },
@@ -1017,6 +1129,7 @@
             "name": "stabilityai/control-lora-canny-rank128.safetensors",
             "reference": "https://huggingface.co/stabilityai/control-lora",
             "save_path": "default",
+            "size": "395.7MB",
             "type": "controlnet",
             "url": "https://huggingface.co/stabilityai/control-lora/resolve/main/control-LoRAs-rank128/control-lora-canny-rank128.safetensors"
         },
@@ -1027,6 +1140,7 @@
             "name": "stabilityai/control-lora-depth-rank128.safetensors",
             "reference": "https://huggingface.co/stabilityai/control-lora",
             "save_path": "default",
+            "size": "395.7MB",
             "type": "controlnet",
             "url": "https://huggingface.co/stabilityai/control-lora/resolve/main/control-LoRAs-rank128/control-lora-depth-rank128.safetensors"
         },
@@ -1037,6 +1151,7 @@
             "name": "stabilityai/control-lora-recolor-rank128.safetensors",
             "reference": "https://huggingface.co/stabilityai/control-lora",
             "save_path": "default",
+            "size": "395.7MB",
             "type": "controlnet",
             "url": "https://huggingface.co/stabilityai/control-lora/resolve/main/control-LoRAs-rank128/control-lora-recolor-rank128.safetensors"
         },
@@ -1047,6 +1162,7 @@
             "name": "stabilityai/control-lora-sketch-rank128-metadata.safetensors",
             "reference": "https://huggingface.co/stabilityai/control-lora",
             "save_path": "default",
+            "size": "395.7MB",
             "type": "controlnet",
             "url": "https://huggingface.co/stabilityai/control-lora/resolve/main/control-LoRAs-rank128/control-lora-sketch-rank128-metadata.safetensors"
         },
@@ -1057,6 +1173,7 @@
             "name": "stabilityai/control-lora-canny-rank256.safetensors",
             "reference": "https://huggingface.co/stabilityai/control-lora",
             "save_path": "default",
+            "size": "774.5MB",
             "type": "controlnet",
             "url": "https://huggingface.co/stabilityai/control-lora/resolve/main/control-LoRAs-rank256/control-lora-canny-rank256.safetensors"
         },
@@ -1067,6 +1184,7 @@
             "name": "stabilityai/control-lora-depth-rank256.safetensors",
             "reference": "https://huggingface.co/stabilityai/control-lora",
             "save_path": "default",
+            "size": "774.4MB",
             "type": "controlnet",
             "url": "https://huggingface.co/stabilityai/control-lora/resolve/main/control-LoRAs-rank256/control-lora-depth-rank256.safetensors"
         },
@@ -1077,6 +1195,7 @@
             "name": "stabilityai/control-lora-recolor-rank256.safetensors",
             "reference": "https://huggingface.co/stabilityai/control-lora",
             "save_path": "default",
+            "size": "774.4MB",
             "type": "controlnet",
             "url": "https://huggingface.co/stabilityai/control-lora/resolve/main/control-LoRAs-rank256/control-lora-recolor-rank256.safetensors"
         },
@@ -1087,6 +1206,7 @@
             "name": "stabilityai/control-lora-sketch-rank256.safetensors",
             "reference": "https://huggingface.co/stabilityai/control-lora",
             "save_path": "default",
+            "size": "774.5MB",
             "type": "controlnet",
             "url": "https://huggingface.co/stabilityai/control-lora/resolve/main/control-LoRAs-rank256/control-lora-sketch-rank256.safetensors"
         },
@@ -1097,6 +1217,7 @@
             "name": "kohya-ss/ControlNet-LLLite: SDXL Canny Anime",
             "reference": "https://huggingface.co/kohya-ss/controlnet-lllite",
             "save_path": "custom_nodes/ControlNet-LLLite-ComfyUI/models",
+            "size": "46.2MB",
             "type": "controlnet",
             "url": "https://huggingface.co/kohya-ss/controlnet-lllite/resolve/main/controllllite_v01032064e_sdxl_canny_anime.safetensors"
         },
@@ -1107,6 +1228,7 @@
             "name": "SDXL-controlnet: OpenPose (v2)",
             "reference": "https://huggingface.co/thibaud/controlnet-openpose-sdxl-1.0",
             "save_path": "default",
+            "size": "5.00GB",
             "type": "controlnet",
             "url": "https://huggingface.co/thibaud/controlnet-openpose-sdxl-1.0/resolve/main/OpenPoseXL2.safetensors"
         },
@@ -1117,6 +1239,7 @@
             "name": "controlnet-SargeZT/controlnet-sd-xl-1.0-softedge-dexined",
             "reference": "https://huggingface.co/SargeZT/controlnet-sd-xl-1.0-softedge-dexined",
             "save_path": "default",
+            "size": "5.00GB",
             "type": "controlnet",
             "url": "https://huggingface.co/SargeZT/controlnet-sd-xl-1.0-softedge-dexined/resolve/main/controlnet-sd-xl-1.0-softedge-dexined.safetensors"
         },
@@ -1127,6 +1250,7 @@
             "name": "controlnet-SargeZT/controlnet-sd-xl-1.0-depth-16bit-zoe",
             "reference": "https://huggingface.co/SargeZT/controlnet-sd-xl-1.0-depth-16bit-zoe",
             "save_path": "default",
+            "size": "5.00GB",
             "type": "controlnet",
             "url": "https://huggingface.co/SargeZT/controlnet-sd-xl-1.0-depth-16bit-zoe/resolve/main/depth-zoe-xl-v1.0-controlnet.safetensors"
         },
@@ -1137,6 +1261,7 @@
             "name": "ControlNet-v1-1 (ip2p; fp16)",
             "reference": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors",
             "save_path": "default",
+            "size": "722.6MB",
             "type": "controlnet",
             "url": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/resolve/main/control_v11e_sd15_ip2p_fp16.safetensors"
         },
@@ -1147,6 +1272,7 @@
             "name": "ControlNet-v1-1 (shuffle; fp16)",
             "reference": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors",
             "save_path": "default",
+            "size": "722.6MB",
             "type": "controlnet",
             "url": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/resolve/main/control_v11e_sd15_shuffle_fp16.safetensors"
         },
@@ -1157,6 +1283,7 @@
             "name": "ControlNet-v1-1 (canny; fp16)",
             "reference": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors",
             "save_path": "default",
+            "size": "722.6MB",
             "type": "controlnet",
             "url": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/resolve/main/control_v11p_sd15_canny_fp16.safetensors"
         },
@@ -1167,6 +1294,7 @@
             "name": "ControlNet-v1-1 (depth; fp16)",
             "reference": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors",
             "save_path": "default",
+            "size": "722.6MB",
             "type": "controlnet",
             "url": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/resolve/main/control_v11f1p_sd15_depth_fp16.safetensors"
         },
@@ -1177,6 +1305,7 @@
             "name": "ControlNet-v1-1 (inpaint; fp16)",
             "reference": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors",
             "save_path": "default",
+            "size": "722.6MB",
             "type": "controlnet",
             "url": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/resolve/main/control_v11p_sd15_inpaint_fp16.safetensors"
         },
@@ -1187,6 +1316,7 @@
             "name": "ControlNet-v1-1 (lineart; fp16)",
             "reference": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors",
             "save_path": "default",
+            "size": "722.6MB",
             "type": "controlnet",
             "url": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/resolve/main/control_v11p_sd15_lineart_fp16.safetensors"
         },
@@ -1197,6 +1327,7 @@
             "name": "ControlNet-v1-1 (mlsd; fp16)",
             "reference": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors",
             "save_path": "default",
+            "size": "722.6MB",
             "type": "controlnet",
             "url": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/resolve/main/control_v11p_sd15_mlsd_fp16.safetensors"
         },
@@ -1207,6 +1338,7 @@
             "name": "ControlNet-v1-1 (normalbae; fp16)",
             "reference": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors",
             "save_path": "default",
+            "size": "722.6MB",
             "type": "controlnet",
             "url": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/resolve/main/control_v11p_sd15_normalbae_fp16.safetensors"
         },
@@ -1217,6 +1349,7 @@
             "name": "ControlNet-v1-1 (openpose; fp16)",
             "reference": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors",
             "save_path": "default",
+            "size": "722.6MB",
             "type": "controlnet",
             "url": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/resolve/main/control_v11p_sd15_openpose_fp16.safetensors"
         },
@@ -1227,6 +1360,7 @@
             "name": "ControlNet-v1-1 (scribble; fp16)",
             "reference": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors",
             "save_path": "default",
+            "size": "722.6MB",
             "type": "controlnet",
             "url": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/resolve/main/control_v11p_sd15_scribble_fp16.safetensors"
         },
@@ -1237,6 +1371,7 @@
             "name": "ControlNet-v1-1 (seg; fp16)",
             "reference": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors",
             "save_path": "default",
+            "size": "722.6MB",
             "type": "controlnet",
             "url": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/resolve/main/control_v11p_sd15_seg_fp16.safetensors"
         },
@@ -1247,6 +1382,7 @@
             "name": "ControlNet-v1-1 (softedge; fp16)",
             "reference": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors",
             "save_path": "default",
+            "size": "722.6MB",
             "type": "controlnet",
             "url": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/resolve/main/control_v11p_sd15_softedge_fp16.safetensors"
         },
@@ -1257,6 +1393,7 @@
             "name": "ControlNet-v1-1 (anime; fp16)",
             "reference": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors",
             "save_path": "default",
+            "size": "722.6MB",
             "type": "controlnet",
             "url": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/resolve/main/control_v11p_sd15s2_lineart_anime_fp16.safetensors"
         },
@@ -1267,6 +1404,7 @@
             "name": "ControlNet-v1-1 (tile; fp16; v11u)",
             "reference": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors",
             "save_path": "default",
+            "size": "722.6MB",
             "type": "controlnet",
             "url": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/resolve/main/control_v11u_sd15_tile_fp16.safetensors"
         },
@@ -1277,6 +1415,7 @@
             "name": "ControlNet-v1-1 (tile; fp16; v11f1e)",
             "reference": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors",
             "save_path": "default",
+            "size": "722.6MB",
             "type": "controlnet",
             "url": "https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/resolve/main/control_v11f1e_sd15_tile_fp16.safetensors"
         },
@@ -1287,6 +1426,7 @@
             "name": "ControlNet-HandRefiner-pruned (inpaint-depth-hand; fp16)",
             "reference": "https://huggingface.co/hr16/ControlNet-HandRefiner-pruned",
             "save_path": "default",
+            "size": "722.6MB",
             "type": "controlnet",
             "url": "https://huggingface.co/hr16/ControlNet-HandRefiner-pruned/resolve/main/control_sd15_inpaint_depth_hand_fp16.safetensors"
         },
@@ -1297,6 +1437,7 @@
             "name": "control_boxdepth_LooseControlfp16 (fp16)",
             "reference": "https://huggingface.co/ioclab/LooseControl_WebUICombine",
             "save_path": "default",
+            "size": "722.6MB",
             "type": "controlnet",
             "url": "https://huggingface.co/ioclab/LooseControl_WebUICombine/resolve/main/control_boxdepth_LooseControlfp16.safetensors"
         },
@@ -1307,6 +1448,7 @@
             "name": "GLIGEN textbox (fp16; pruned)",
             "reference": "https://huggingface.co/comfyanonymous/GLIGEN_pruned_safetensors",
             "save_path": "default",
+            "size": "418.2MB",
             "type": "gligen",
             "url": "https://huggingface.co/comfyanonymous/GLIGEN_pruned_safetensors/resolve/main/gligen_sd14_textbox_pruned_fp16.safetensors"
         },
@@ -1317,6 +1459,7 @@
             "name": "ViT-H SAM model",
             "reference": "https://github.com/facebookresearch/segment-anything#model-checkpoints",
             "save_path": "sams",
+            "size": "2.56GB",
             "type": "sam",
             "url": "https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth"
         },
@@ -1327,6 +1470,7 @@
             "name": "ViT-L SAM model",
             "reference": "https://github.com/facebookresearch/segment-anything#model-checkpoints",
             "save_path": "sams",
+            "size": "1.25GB",
             "type": "sam",
             "url": "https://dl.fbaipublicfiles.com/segment_anything/sam_vit_l_0b3195.pth"
         },
@@ -1337,6 +1481,7 @@
             "name": "ViT-B SAM model",
             "reference": "https://github.com/facebookresearch/segment-anything#model-checkpoints",
             "save_path": "sams",
+            "size": "375.0MB",
             "type": "sam",
             "url": "https://dl.fbaipublicfiles.com/segment_anything/sam_vit_b_01ec64.pth"
         },
@@ -1347,6 +1492,7 @@
             "name": "seecoder v1.0",
             "reference": "https://huggingface.co/shi-labs/prompt-free-diffusion/tree/main/pretrained/pfd/seecoder",
             "save_path": "seecoders",
+            "size": "1.18GB",
             "type": "seecoder",
             "url": "https://huggingface.co/shi-labs/prompt-free-diffusion/resolve/main/pretrained/pfd/seecoder/seecoder-v1-0.safetensors"
         },
@@ -1357,6 +1503,7 @@
             "name": "seecoder pa v1.0",
             "reference": "https://huggingface.co/shi-labs/prompt-free-diffusion/tree/main/pretrained/pfd/seecoder",
             "save_path": "seecoders",
+            "size": "1.19GB",
             "type": "seecoder",
             "url": "https://huggingface.co/shi-labs/prompt-free-diffusion/resolve/main/pretrained/pfd/seecoder/seecoder-pa-v1-0.safetensors"
         },
@@ -1367,6 +1514,7 @@
             "name": "seecoder anime v1.0",
             "reference": "https://huggingface.co/shi-labs/prompt-free-diffusion/tree/main/pretrained/pfd/seecoder",
             "save_path": "seecoders",
+            "size": "1.18GB",
             "type": "seecoder",
             "url": "https://huggingface.co/shi-labs/prompt-free-diffusion/resolve/main/pretrained/pfd/seecoder/seecoder-anime-v1-0.safetensors"
         },
@@ -1377,6 +1525,7 @@
             "name": "face_yolov8m (bbox)",
             "reference": "https://huggingface.co/Bingsu/adetailer/tree/main",
             "save_path": "ultralytics/bbox",
+            "size": "52.0MB",
             "type": "Ultralytics",
             "url": "https://huggingface.co/Bingsu/adetailer/resolve/main/face_yolov8m.pt"
         },
@@ -1387,6 +1536,7 @@
             "name": "face_yolov8n (bbox)",
             "reference": "https://huggingface.co/Bingsu/adetailer/tree/main",
             "save_path": "ultralytics/bbox",
+            "size": "6.23MB",
             "type": "Ultralytics",
             "url": "https://huggingface.co/Bingsu/adetailer/resolve/main/face_yolov8n.pt"
         },
@@ -1397,6 +1547,7 @@
             "name": "face_yolov8n_v2 (bbox)",
             "reference": "https://huggingface.co/Bingsu/adetailer/tree/main",
             "save_path": "ultralytics/bbox",
+            "size": "6.24MB",
             "type": "Ultralytics",
             "url": "https://huggingface.co/Bingsu/adetailer/resolve/main/face_yolov8n_v2.pt"
         },
@@ -1407,6 +1558,7 @@
             "name": "face_yolov8s (bbox)",
             "reference": "https://huggingface.co/Bingsu/adetailer/tree/main",
             "save_path": "ultralytics/bbox",
+            "size": "22.5MB",
             "type": "Ultralytics",
             "url": "https://huggingface.co/Bingsu/adetailer/resolve/main/face_yolov8s.pt"
         },
@@ -1417,6 +1569,7 @@
             "name": "hand_yolov8n (bbox)",
             "reference": "https://huggingface.co/Bingsu/adetailer/tree/main",
             "save_path": "ultralytics/bbox",
+            "size": "6.24MB",
             "type": "Ultralytics",
             "url": "https://huggingface.co/Bingsu/adetailer/resolve/main/hand_yolov8n.pt"
         },
@@ -1427,6 +1580,7 @@
             "name": "hand_yolov8s (bbox)",
             "reference": "https://huggingface.co/Bingsu/adetailer/tree/main",
             "save_path": "ultralytics/bbox",
+            "size": "22.5MB",
             "type": "Ultralytics",
             "url": "https://huggingface.co/Bingsu/adetailer/resolve/main/hand_yolov8s.pt"
         },
@@ -1437,6 +1591,7 @@
             "name": "person_yolov8m (segm)",
             "reference": "https://huggingface.co/Bingsu/adetailer/tree/main",
             "save_path": "ultralytics/segm",
+            "size": "54.8MB",
             "type": "Ultralytics",
             "url": "https://huggingface.co/Bingsu/adetailer/resolve/main/person_yolov8m-seg.pt"
         },
@@ -1447,6 +1602,7 @@
             "name": "person_yolov8n (segm)",
             "reference": "https://huggingface.co/Bingsu/adetailer/tree/main",
             "save_path": "ultralytics/segm",
+            "size": "6.78MB",
             "type": "Ultralytics",
             "url": "https://huggingface.co/Bingsu/adetailer/resolve/main/person_yolov8n-seg.pt"
         },
@@ -1457,6 +1613,7 @@
             "name": "person_yolov8s (segm)",
             "reference": "https://huggingface.co/Bingsu/adetailer/tree/main",
             "save_path": "ultralytics/segm",
+            "size": "23.9MB",
             "type": "Ultralytics",
             "url": "https://huggingface.co/Bingsu/adetailer/resolve/main/person_yolov8s-seg.pt"
         },
@@ -1467,6 +1624,7 @@
             "name": "deepfashion2_yolov8s (segm)",
             "reference": "https://huggingface.co/Bingsu/adetailer/tree/main",
             "save_path": "ultralytics/segm",
+            "size": "23.9MB",
             "type": "Ultralytics",
             "url": "https://huggingface.co/Bingsu/adetailer/resolve/main/deepfashion2_yolov8s-seg.pt"
         },
@@ -1477,6 +1635,7 @@
             "name": "face_yolov8m-seg_60.pt (segm)",
             "reference": "https://github.com/hben35096/assets/releases/tag/yolo8",
             "save_path": "ultralytics/segm",
+            "size": "54.8MB",
             "type": "Ultralytics",
             "url": "https://github.com/hben35096/assets/releases/download/yolo8/face_yolov8m-seg_60.pt"
         },
@@ -1487,6 +1646,7 @@
             "name": "face_yolov8n-seg2_60.pt (segm)",
             "reference": "https://github.com/hben35096/assets/releases/tag/yolo8",
             "save_path": "ultralytics/segm",
+            "size": "6.77MB",
             "type": "Ultralytics",
             "url": "https://github.com/hben35096/assets/releases/download/yolo8/face_yolov8n-seg2_60.pt"
         },
@@ -1497,6 +1657,7 @@
             "name": "hair_yolov8n-seg_60.pt (segm)",
             "reference": "https://github.com/hben35096/assets/releases/tag/yolo8",
             "save_path": "ultralytics/segm",
+            "size": "6.77MB",
             "type": "Ultralytics",
             "url": "https://github.com/hben35096/assets/releases/download/yolo8/hair_yolov8n-seg_60.pt"
         },
@@ -1507,6 +1668,7 @@
             "name": "skin_yolov8m-seg_400.pt (segm)",
             "reference": "https://github.com/hben35096/assets/releases/tag/yolo8",
             "save_path": "ultralytics/segm",
+            "size": "54.9MB",
             "type": "Ultralytics",
             "url": "https://github.com/hben35096/assets/releases/download/yolo8/skin_yolov8m-seg_400.pt"
         },
@@ -1517,6 +1679,7 @@
             "name": "skin_yolov8n-seg_400.pt (segm)",
             "reference": "https://github.com/hben35096/assets/releases/tag/yolo8",
             "save_path": "ultralytics/segm",
+            "size": "6.83MB",
             "type": "Ultralytics",
             "url": "https://github.com/hben35096/assets/releases/download/yolo8/skin_yolov8n-seg_400.pt"
         },
@@ -1527,6 +1690,7 @@
             "name": "skin_yolov8n-seg_800.pt (segm)",
             "reference": "https://github.com/hben35096/assets/releases/tag/yolo8",
             "save_path": "ultralytics/segm",
+            "size": "6.84MB",
             "type": "Ultralytics",
             "url": "https://github.com/hben35096/assets/releases/download/yolo8/skin_yolov8n-seg_800.pt"
         },
@@ -1537,6 +1701,7 @@
             "name": "animatediff/mmd_sd_v14.ckpt (comfyui-animatediff) (Updated path)",
             "reference": "https://huggingface.co/guoyww/animatediff",
             "save_path": "AnimateDiff",
+            "size": "1.67GB",
             "type": "animatediff",
             "url": "https://huggingface.co/guoyww/animatediff/resolve/main/mm_sd_v14.ckpt"
         },
@@ -1547,6 +1712,7 @@
             "name": "animatediff/mm_sd_v15.ckpt (comfyui-animatediff) (Updated path)",
             "reference": "https://huggingface.co/guoyww/animatediff",
             "save_path": "AnimateDiff",
+            "size": "1.67GB",
             "type": "animatediff",
             "url": "https://huggingface.co/guoyww/animatediff/resolve/main/mm_sd_v15.ckpt"
         },
@@ -1557,6 +1723,7 @@
             "name": "animatediff/mmd_sd_v14.ckpt (ComfyUI-AnimateDiff-Evolved) (Updated path)",
             "reference": "https://huggingface.co/guoyww/animatediff",
             "save_path": "animatediff_models",
+            "size": "1.67GB",
             "type": "animatediff",
             "url": "https://huggingface.co/guoyww/animatediff/resolve/main/mm_sd_v14.ckpt"
         },
@@ -1567,6 +1734,7 @@
             "name": "animatediff/mm_sd_v15.ckpt (ComfyUI-AnimateDiff-Evolved) (Updated path)",
             "reference": "https://huggingface.co/guoyww/animatediff",
             "save_path": "animatediff_models",
+            "size": "1.67GB",
             "type": "animatediff",
             "url": "https://huggingface.co/guoyww/animatediff/resolve/main/mm_sd_v15.ckpt"
         },
@@ -1577,6 +1745,7 @@
             "name": "animatediff/mm_sd_v15_v2.ckpt (ComfyUI-AnimateDiff-Evolved) (Updated path)",
             "reference": "https://huggingface.co/guoyww/animatediff",
             "save_path": "animatediff_models",
+            "size": "1.82GB",
             "type": "animatediff",
             "url": "https://huggingface.co/guoyww/animatediff/resolve/main/mm_sd_v15_v2.ckpt"
         },
@@ -1587,6 +1756,7 @@
             "name": "animatediff/v3_sd15_mm.ckpt (ComfyUI-AnimateDiff-Evolved) (Updated path)",
             "reference": "https://huggingface.co/guoyww/animatediff",
             "save_path": "animatediff_models",
+            "size": "1.67GB",
             "type": "animatediff",
             "url": "https://huggingface.co/guoyww/animatediff/resolve/main/v3_sd15_mm.ckpt"
         },
@@ -1597,6 +1767,7 @@
             "name": "animatediff/mm_sdxl_v10_beta.ckpt (ComfyUI-AnimateDiff-Evolved) (Updated path)",
             "reference": "https://huggingface.co/guoyww/animatediff",
             "save_path": "animatediff_models",
+            "size": "950.1MB",
             "type": "animatediff",
             "url": "https://huggingface.co/guoyww/animatediff/resolve/main/mm_sdxl_v10_beta.ckpt"
         },
@@ -1607,6 +1778,7 @@
             "name": "AD_Stabilized_Motion/mm-Stabilized_high.pth (ComfyUI-AnimateDiff-Evolved) (Updated path)",
             "reference": "https://huggingface.co/manshoety/AD_Stabilized_Motion",
             "save_path": "animatediff_models",
+            "size": "1.67GB",
             "type": "animatediff",
             "url": "https://huggingface.co/manshoety/AD_Stabilized_Motion/resolve/main/mm-Stabilized_high.pth"
         },
@@ -1617,6 +1789,7 @@
             "name": "AD_Stabilized_Motion/mm-Stabilized_mid.pth (ComfyUI-AnimateDiff-Evolved) (Updated path)",
             "reference": "https://huggingface.co/manshoety/AD_Stabilized_Motion",
             "save_path": "animatediff_models",
+            "size": "1.67GB",
             "type": "animatediff",
             "url": "https://huggingface.co/manshoety/AD_Stabilized_Motion/resolve/main/mm-Stabilized_mid.pth"
         },
@@ -1627,6 +1800,7 @@
             "name": "CiaraRowles/temporaldiff-v1-animatediff.ckpt (ComfyUI-AnimateDiff-Evolved) (Updated path)",
             "reference": "https://huggingface.co/CiaraRowles/TemporalDiff",
             "save_path": "animatediff_models",
+            "size": "1.67GB",
             "type": "animatediff",
             "url": "https://huggingface.co/CiaraRowles/TemporalDiff/resolve/main/temporaldiff-v1-animatediff.ckpt"
         },
@@ -1637,6 +1811,7 @@
             "name": "animatediff/v2_lora_PanLeft.ckpt (ComfyUI-AnimateDiff-Evolved) (Updated path)",
             "reference": "https://huggingface.co/guoyww/animatediff",
             "save_path": "animatediff_motion_lora",
+            "size": "77.5MB",
             "type": "motion lora",
             "url": "https://huggingface.co/guoyww/animatediff/resolve/main/v2_lora_PanLeft.ckpt"
         },
@@ -1647,6 +1822,7 @@
             "name": "animatediff/v2_lora_PanRight.ckpt (ComfyUI-AnimateDiff-Evolved) (Updated path)",
             "reference": "https://huggingface.co/guoyww/animatediff",
             "save_path": "animatediff_motion_lora",
+            "size": "77.5MB",
             "type": "motion lora",
             "url": "https://huggingface.co/guoyww/animatediff/resolve/main/v2_lora_PanRight.ckpt"
         },
@@ -1657,6 +1833,7 @@
             "name": "animatediff/v2_lora_RollingAnticlockwise.ckpt (ComfyUI-AnimateDiff-Evolved) (Updated path)",
             "reference": "https://huggingface.co/guoyww/animatediff",
             "save_path": "animatediff_motion_lora",
+            "size": "77.5MB",
             "type": "motion lora",
             "url": "https://huggingface.co/guoyww/animatediff/resolve/main/v2_lora_RollingAnticlockwise.ckpt"
         },
@@ -1667,6 +1844,7 @@
             "name": "animatediff/v2_lora_RollingClockwise.ckpt (ComfyUI-AnimateDiff-Evolved) (Updated path)",
             "reference": "https://huggingface.co/guoyww/animatediff",
             "save_path": "animatediff_motion_lora",
+            "size": "77.5MB",
             "type": "motion lora",
             "url": "https://huggingface.co/guoyww/animatediff/resolve/main/v2_lora_RollingClockwise.ckpt"
         },
@@ -1677,6 +1855,7 @@
             "name": "animatediff/v2_lora_TiltDown.ckpt (ComfyUI-AnimateDiff-Evolved) (Updated path)",
             "reference": "https://huggingface.co/guoyww/animatediff",
             "save_path": "animatediff_motion_lora",
+            "size": "77.5MB",
             "type": "motion lora",
             "url": "https://huggingface.co/guoyww/animatediff/resolve/main/v2_lora_TiltDown.ckpt"
         },
@@ -1687,6 +1866,7 @@
             "name": "animatediff/v2_lora_TiltUp.ckpt (ComfyUI-AnimateDiff-Evolved) (Updated path)",
             "reference": "https://huggingface.co/guoyww/animatediff",
             "save_path": "animatediff_motion_lora",
+            "size": "77.5MB",
             "type": "motion lora",
             "url": "https://huggingface.co/guoyww/animatediff/resolve/main/v2_lora_TiltUp.ckpt"
         },
@@ -1697,6 +1877,7 @@
             "name": "animatediff/v2_lora_ZoomIn.ckpt (ComfyUI-AnimateDiff-Evolved) (Updated path)",
             "reference": "https://huggingface.co/guoyww/animatediff",
             "save_path": "animatediff_motion_lora",
+            "size": "77.5MB",
             "type": "motion lora",
             "url": "https://huggingface.co/guoyww/animatediff/resolve/main/v2_lora_ZoomIn.ckpt"
         },
@@ -1707,6 +1888,7 @@
             "name": "animatediff/v2_lora_ZoomOut.ckpt (ComfyUI-AnimateDiff-Evolved) (Updated path)",
             "reference": "https://huggingface.co/guoyww/animatediff",
             "save_path": "animatediff_motion_lora",
+            "size": "77.5MB",
             "type": "motion lora",
             "url": "https://huggingface.co/guoyww/animatediff/resolve/main/v2_lora_ZoomOut.ckpt"
         },
@@ -1717,6 +1899,7 @@
             "name": "LongAnimatediff/lt_long_mm_32_frames.ckpt (ComfyUI-AnimateDiff-Evolved) (Updated path)",
             "reference": "https://huggingface.co/Lightricks/LongAnimateDiff",
             "save_path": "animatediff_models",
+            "size": "1.82GB",
             "type": "animatediff",
             "url": "https://huggingface.co/Lightricks/LongAnimateDiff/resolve/main/lt_long_mm_32_frames.ckpt"
         },
@@ -1727,6 +1910,7 @@
             "name": "LongAnimatediff/lt_long_mm_16_64_frames.ckpt (ComfyUI-AnimateDiff-Evolved) (Updated path)",
             "reference": "https://huggingface.co/Lightricks/LongAnimateDiff",
             "save_path": "animatediff_models",
+            "size": "1.83GB",
             "type": "animatediff",
             "url": "https://huggingface.co/Lightricks/LongAnimateDiff/resolve/main/lt_long_mm_16_64_frames.ckpt"
         },
@@ -1737,6 +1921,7 @@
             "name": "LongAnimatediff/lt_long_mm_16_64_frames_v1.1.ckpt (ComfyUI-AnimateDiff-Evolved) (Updated path)",
             "reference": "https://huggingface.co/Lightricks/LongAnimateDiff",
             "save_path": "animatediff_models",
+            "size": "1.83GB",
             "type": "animatediff",
             "url": "https://huggingface.co/Lightricks/LongAnimateDiff/resolve/main/lt_long_mm_16_64_frames_v1.1.ckpt"
         },
@@ -1747,6 +1932,7 @@
             "name": "animatediff/v3_sd15_sparsectrl_rgb.ckpt (ComfyUI-AnimateDiff-Evolved)",
             "reference": "https://huggingface.co/guoyww/animatediff",
             "save_path": "controlnet/SD1.5/animatediff",
+            "size": "1.99GB",
             "type": "controlnet",
             "url": "https://huggingface.co/guoyww/animatediff/resolve/main/v3_sd15_sparsectrl_rgb.ckpt"
         },
@@ -1757,6 +1943,7 @@
             "name": "animatediff/v3_sd15_sparsectrl_scribble.ckpt",
             "reference": "https://huggingface.co/guoyww/animatediff",
             "save_path": "controlnet/SD1.5/animatediff",
+            "size": "1.99GB",
             "type": "controlnet",
             "url": "https://huggingface.co/guoyww/animatediff/resolve/main/v3_sd15_sparsectrl_scribble.ckpt"
         },
@@ -1767,6 +1954,7 @@
             "name": "animatediff/v3_sd15_adapter.ckpt",
             "reference": "https://huggingface.co/guoyww/animatediff",
             "save_path": "loras/SD1.5/animatediff",
+            "size": "102.1MB",
             "type": "lora",
             "url": "https://huggingface.co/guoyww/animatediff/resolve/main/v3_sd15_adapter.ckpt"
         },
@@ -1777,6 +1965,7 @@
             "name": "TencentARC/motionctrl.pth",
             "reference": "https://huggingface.co/TencentARC/MotionCtrl",
             "save_path": "checkpoints/motionctrl",
+            "size": "4.02GB",
             "type": "checkpoints",
             "url": "https://huggingface.co/TencentARC/MotionCtrl/resolve/main/motionctrl.pth"
         },
@@ -1787,6 +1976,7 @@
             "name": "ip-adapter_sd15.safetensors",
             "reference": "https://huggingface.co/h94/IP-Adapter",
             "save_path": "ipadapter",
+            "size": "44.6MB",
             "type": "IP-Adapter",
             "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter_sd15.safetensors"
         },
@@ -1797,6 +1987,7 @@
             "name": "ip-adapter_sd15_light_v11.bin",
             "reference": "https://huggingface.co/h94/IP-Adapter",
             "save_path": "ipadapter",
+            "size": "44.6MB",
             "type": "IP-Adapter",
             "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter_sd15_light_v11.bin"
         },
@@ -1807,6 +1998,7 @@
             "name": "ip-adapter_sd15_light.safetensors [DEPRECATED]",
             "reference": "https://huggingface.co/h94/IP-Adapter",
             "save_path": "ipadapter",
+            "size": "44.6MB",
             "type": "IP-Adapter",
             "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter_sd15_light.safetensors"
         },
@@ -1817,6 +2009,7 @@
             "name": "ip-adapter-plus_sd15.safetensors",
             "reference": "https://huggingface.co/h94/IP-Adapter",
             "save_path": "ipadapter",
+            "size": "98.2MB",
             "type": "IP-Adapter",
             "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter-plus_sd15.safetensors"
         },
@@ -1827,6 +2020,7 @@
             "name": "ip-adapter-plus-face_sd15.safetensors",
             "reference": "https://huggingface.co/h94/IP-Adapter",
             "save_path": "ipadapter",
+            "size": "98.2MB",
             "type": "IP-Adapter",
             "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter-plus-face_sd15.safetensors"
         },
@@ -1837,6 +2031,7 @@
             "name": "ip-adapter-full-face_sd15.safetensors",
             "reference": "https://huggingface.co/h94/IP-Adapter",
             "save_path": "ipadapter",
+            "size": "43.6MB",
             "type": "IP-Adapter",
             "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter-full-face_sd15.safetensors"
         },
@@ -1847,6 +2042,7 @@
             "name": "ip-adapter_sd15_vit-G.safetensors",
             "reference": "https://huggingface.co/h94/IP-Adapter",
             "save_path": "ipadapter",
+            "size": "46.2MB",
             "type": "IP-Adapter",
             "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter_sd15_vit-G.safetensors"
         },
@@ -1857,6 +2053,7 @@
             "name": "ip-adapter-faceid_sd15.bin",
             "reference": "https://huggingface.co/h94/IP-Adapter-FaceID",
             "save_path": "ipadapter",
+            "size": "96.7MB",
             "type": "IP-Adapter",
             "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid_sd15.bin"
         },
@@ -1867,6 +2064,7 @@
             "name": "ip-adapter-faceid-plusv2_sd15.bin",
             "reference": "https://huggingface.co/h94/IP-Adapter-FaceID",
             "save_path": "ipadapter",
+            "size": "156.6MB",
             "type": "IP-Adapter",
             "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-plusv2_sd15.bin"
         },
@@ -1877,6 +2075,7 @@
             "name": "ip-adapter-faceid-plus_sd15.bin [DEPRECATED]",
             "reference": "https://huggingface.co/h94/IP-Adapter-FaceID",
             "save_path": "ipadapter",
+            "size": "156.6MB",
             "type": "IP-Adapter",
             "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-plus_sd15.bin"
         },
@@ -1887,6 +2086,7 @@
             "name": "ip-adapter-faceid-portrait-v11_sd15.bin",
             "reference": "https://huggingface.co/h94/IP-Adapter-FaceID",
             "save_path": "ipadapter",
+            "size": "64.6MB",
             "type": "IP-Adapter",
             "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-portrait-v11_sd15.bin"
         },
@@ -1897,6 +2097,7 @@
             "name": "ip-adapter-faceid-portrait_sd15.bin [DEPRECATED]",
             "reference": "https://huggingface.co/h94/IP-Adapter-FaceID",
             "save_path": "ipadapter",
+            "size": "64.6MB",
             "type": "IP-Adapter",
             "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-portrait_sd15.bin"
         },
@@ -1907,6 +2108,7 @@
             "name": "ip-adapter-faceid_sdxl.bin",
             "reference": "https://huggingface.co/h94/IP-Adapter-FaceID",
             "save_path": "ipadapter",
+            "size": "1.07GB",
             "type": "IP-Adapter",
             "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid_sdxl.bin"
         },
@@ -1917,6 +2119,7 @@
             "name": "ip-adapter-faceid-plusv2_sdxl.bin",
             "reference": "https://huggingface.co/h94/IP-Adapter-FaceID",
             "save_path": "ipadapter",
+            "size": "1.49GB",
             "type": "IP-Adapter",
             "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-plusv2_sdxl.bin"
         },
@@ -1927,6 +2130,7 @@
             "name": "ip-adapter-faceid-portrait_sdxl.bin",
             "reference": "https://huggingface.co/h94/IP-Adapter-FaceID",
             "save_path": "ipadapter",
+            "size": "749.8MB",
             "type": "IP-Adapter",
             "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-portrait_sdxl.bin"
         },
@@ -1937,6 +2141,7 @@
             "name": "ip-adapter-faceid-portrait_sdxl_unnorm.bin",
             "reference": "https://huggingface.co/h94/IP-Adapter-FaceID",
             "save_path": "ipadapter",
+            "size": "1.01GB",
             "type": "IP-Adapter",
             "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-portrait_sdxl_unnorm.bin"
         },
@@ -1947,6 +2152,7 @@
             "name": "ip-adapter-faceid_sd15_lora.safetensors",
             "reference": "https://huggingface.co/h94/IP-Adapter-FaceID",
             "save_path": "loras/ipadapter",
+            "size": "51.1MB",
             "type": "lora",
             "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid_sd15_lora.safetensors"
         },
@@ -1957,6 +2163,7 @@
             "name": "ip-adapter-faceid-plus_sd15_lora.safetensors [DEPRECATED]",
             "reference": "https://huggingface.co/h94/IP-Adapter-FaceID",
             "save_path": "loras/ipadapter",
+            "size": "51.1MB",
             "type": "lora",
             "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-plus_sd15_lora.safetensors"
         },
@@ -1967,6 +2174,7 @@
             "name": "ip-adapter-faceid-plusv2_sd15_lora.safetensors",
             "reference": "https://huggingface.co/h94/IP-Adapter-FaceID",
             "save_path": "loras/ipadapter",
+            "size": "51.1MB",
             "type": "lora",
             "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-plusv2_sd15_lora.safetensors"
         },
@@ -1977,6 +2185,7 @@
             "name": "ip-adapter-faceid_sdxl_lora.safetensors",
             "reference": "https://huggingface.co/h94/IP-Adapter-FaceID",
             "save_path": "loras/ipadapter",
+            "size": "371.8MB",
             "type": "lora",
             "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid_sdxl_lora.safetensors"
         },
@@ -1987,6 +2196,7 @@
             "name": "ip-adapter-faceid-plusv2_sdxl_lora.safetensors",
             "reference": "https://huggingface.co/h94/IP-Adapter-FaceID",
             "save_path": "loras/ipadapter",
+            "size": "371.8MB",
             "type": "lora",
             "url": "https://huggingface.co/h94/IP-Adapter-FaceID/resolve/main/ip-adapter-faceid-plusv2_sdxl_lora.safetensors"
         },
@@ -1997,6 +2207,7 @@
             "name": "ip-adapter_sdxl.safetensors",
             "reference": "https://huggingface.co/h94/IP-Adapter",
             "save_path": "ipadapter",
+            "size": "702.6MB",
             "type": "IP-Adapter",
             "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/ip-adapter_sdxl.safetensors"
         },
@@ -2007,6 +2218,7 @@
             "name": "ip-adapter_sdxl_vit-h.safetensors",
             "reference": "https://huggingface.co/h94/IP-Adapter",
             "save_path": "ipadapter",
+            "size": "698.4MB",
             "type": "IP-Adapter",
             "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/ip-adapter_sdxl_vit-h.safetensors"
         },
@@ -2017,6 +2229,7 @@
             "name": "ip-adapter-plus_sdxl_vit-h.safetensors",
             "reference": "https://huggingface.co/h94/IP-Adapter",
             "save_path": "ipadapter",
+            "size": "847.5MB",
             "type": "IP-Adapter",
             "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/ip-adapter-plus_sdxl_vit-h.safetensors"
         },
@@ -2027,6 +2240,7 @@
             "name": "ip-adapter-plus-face_sdxl_vit-h.safetensors",
             "reference": "https://huggingface.co/h94/IP-Adapter",
             "save_path": "ipadapter",
+            "size": "847.5MB",
             "type": "IP-Adapter",
             "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/ip-adapter-plus-face_sdxl_vit-h.safetensors"
         },
@@ -2037,6 +2251,7 @@
             "name": "ip_plus_composition_sd15.safetensors",
             "reference": "https://huggingface.co/ostris/ip-composition-adapter",
             "save_path": "ipadapter",
+            "size": "98.2MB",
             "type": "IP-Adapter",
             "url": "https://huggingface.co/ostris/ip-composition-adapter/resolve/main/ip_plus_composition_sd15.safetensors"
         },
@@ -2047,6 +2262,7 @@
             "name": "ip_plus_composition_sdxl.safetensors",
             "reference": "https://huggingface.co/ostris/ip-composition-adapter",
             "save_path": "ipadapter",
+            "size": "847.5MB",
             "type": "IP-Adapter",
             "url": "https://huggingface.co/ostris/ip-composition-adapter/resolve/main/ip_plus_composition_sdxl.safetensors"
         },
@@ -2057,6 +2273,7 @@
             "name": "pfg-novel-n10.pt",
             "reference": "https://huggingface.co/furusu/PFG",
             "save_path": "custom_nodes/pfg-ComfyUI/models",
+            "size": "23.6MB",
             "type": "PFG",
             "url": "https://huggingface.co/furusu/PFG/resolve/main/pfg-novel-n10.pt"
         },
@@ -2067,6 +2284,7 @@
             "name": "pfg-wd14-n10.pt",
             "reference": "https://huggingface.co/furusu/PFG",
             "save_path": "custom_nodes/pfg-ComfyUI/models",
+            "size": "31.5MB",
             "type": "PFG",
             "url": "https://huggingface.co/furusu/PFG/resolve/main/pfg-wd14-n10.pt"
         },
@@ -2077,6 +2295,7 @@
             "name": "pfg-wd15beta2-n10.pt",
             "reference": "https://huggingface.co/furusu/PFG",
             "save_path": "custom_nodes/pfg-ComfyUI/models",
+            "size": "31.5MB",
             "type": "PFG",
             "url": "https://huggingface.co/furusu/PFG/resolve/main/pfg-wd15beta2-n10.pt"
         },
@@ -2087,6 +2306,7 @@
             "name": "GFPGANv1.4.pth",
             "reference": "https://github.com/TencentARC/GFPGAN/releases",
             "save_path": "facerestore_models",
+            "size": "348.6MB",
             "type": "GFPGAN",
             "url": "https://github.com/TencentARC/GFPGAN/releases/download/v1.3.4/GFPGANv1.4.pth"
         },
@@ -2097,6 +2317,7 @@
             "name": "codeformer.pth",
             "reference": "https://github.com/sczhou/CodeFormer/releases",
             "save_path": "facerestore_models",
+            "size": "376.6MB",
             "type": "CodeFormer",
             "url": "https://github.com/sczhou/CodeFormer/releases/download/v0.1.0/codeformer.pth"
         },
@@ -2107,6 +2328,7 @@
             "name": "detection_Resnet50_Final.pth",
             "reference": "https://github.com/xinntao/facexlib",
             "save_path": "facerestore_models",
+            "size": "109.5MB",
             "type": "facexlib",
             "url": "https://github.com/xinntao/facexlib/releases/download/v0.1.0/detection_Resnet50_Final.pth"
         },
@@ -2117,6 +2339,7 @@
             "name": "detection_mobilenet0.25_Final.pth",
             "reference": "https://github.com/xinntao/facexlib",
             "save_path": "facerestore_models",
+            "size": "1.79MB",
             "type": "facexlib",
             "url": "https://github.com/xinntao/facexlib/releases/download/v0.1.0/detection_mobilenet0.25_Final.pth"
         },
@@ -2127,6 +2350,7 @@
             "name": "yolov5l-face.pth",
             "reference": "https://github.com/xinntao/facexlib",
             "save_path": "facedetection",
+            "size": "187.0MB",
             "type": "facexlib",
             "url": "https://github.com/sczhou/CodeFormer/releases/download/v0.1.0/yolov5l-face.pth"
         },
@@ -2137,6 +2361,7 @@
             "name": "yolov5n-face.pth",
             "reference": "https://github.com/xinntao/facexlib",
             "save_path": "facedetection",
+            "size": "7.15MB",
             "type": "facexlib",
             "url": "https://github.com/sczhou/CodeFormer/releases/download/v0.1.0/yolov5n-face.pth"
         },
@@ -2147,6 +2372,7 @@
             "name": "photomaker-v1.bin",
             "reference": "https://huggingface.co/TencentARC/PhotoMaker",
             "save_path": "photomaker",
+            "size": "934.1MB",
             "type": "photomaker",
             "url": "https://huggingface.co/TencentARC/PhotoMaker/resolve/main/photomaker-v1.bin"
         },
@@ -2157,6 +2383,7 @@
             "name": "1k3d68.onnx",
             "reference": "https://github.com/cubiq/ComfyUI_InstantID#installation",
             "save_path": "insightface/models/antelopev2",
+            "size": "143.6MB",
             "type": "insightface",
             "url": "https://huggingface.co/MonsterMMORPG/tools/resolve/main/1k3d68.onnx"
         },
@@ -2167,6 +2394,7 @@
             "name": "2d106det.onnx",
             "reference": "https://github.com/cubiq/ComfyUI_InstantID#installation",
             "save_path": "insightface/models/antelopev2",
+            "size": "5.03MB",
             "type": "insightface",
             "url": "https://huggingface.co/MonsterMMORPG/tools/resolve/main/2d106det.onnx"
         },
@@ -2177,6 +2405,7 @@
             "name": "genderage.onnx",
             "reference": "https://github.com/cubiq/ComfyUI_InstantID#installation",
             "save_path": "insightface/models/antelopev2",
+            "size": "1.32MB",
             "type": "insightface",
             "url": "https://huggingface.co/MonsterMMORPG/tools/resolve/main/genderage.onnx"
         },
@@ -2187,6 +2416,7 @@
             "name": "glintr100.onnx",
             "reference": "https://github.com/cubiq/ComfyUI_InstantID#installation",
             "save_path": "insightface/models/antelopev2",
+            "size": "260.7MB",
             "type": "insightface",
             "url": "https://huggingface.co/MonsterMMORPG/tools/resolve/main/glintr100.onnx"
         },
@@ -2197,6 +2427,7 @@
             "name": "scrfd_10g_bnkps.onnx",
             "reference": "https://github.com/cubiq/ComfyUI_InstantID#installation",
             "save_path": "insightface/models/antelopev2",
+            "size": "16.9MB",
             "type": "insightface",
             "url": "https://huggingface.co/MonsterMMORPG/tools/resolve/main/scrfd_10g_bnkps.onnx"
         },
@@ -2207,6 +2438,7 @@
             "name": "ip-adapter.bin",
             "reference": "https://huggingface.co/InstantX/InstantID",
             "save_path": "instantid",
+            "size": "1.69GB",
             "type": "instantid",
             "url": "https://huggingface.co/InstantX/InstantID/resolve/main/ip-adapter.bin"
         },
@@ -2217,6 +2449,7 @@
             "name": "diffusion_pytorch_model.safetensors",
             "reference": "https://huggingface.co/InstantX/InstantID",
             "save_path": "controlnet/instantid",
+            "size": "2.50GB",
             "type": "controlnet",
             "url": "https://huggingface.co/InstantX/InstantID/resolve/main/ControlNetModel/diffusion_pytorch_model.safetensors"
         },
@@ -2227,6 +2460,7 @@
             "name": "efficient_sam_s_cpu.jit [ComfyUI-YoloWorld-EfficientSAM]",
             "reference": "https://huggingface.co/camenduru/YoloWorld-EfficientSAM/tree/main",
             "save_path": "custom_nodes/ComfyUI-YoloWorld-EfficientSAM",
+            "size": "106.0MB",
             "type": "efficient_sam",
             "url": "https://huggingface.co/camenduru/YoloWorld-EfficientSAM/resolve/main/efficient_sam_s_cpu.jit"
         },
@@ -2237,6 +2471,7 @@
             "name": "efficient_sam_s_gpu.jit [ComfyUI-YoloWorld-EfficientSAM]",
             "reference": "https://huggingface.co/camenduru/YoloWorld-EfficientSAM/tree/main",
             "save_path": "custom_nodes/ComfyUI-YoloWorld-EfficientSAM",
+            "size": "106.0MB",
             "type": "efficient_sam",
             "url": "https://huggingface.co/camenduru/YoloWorld-EfficientSAM/resolve/main/efficient_sam_s_gpu.jit"
         },
@@ -2247,6 +2482,7 @@
             "name": "shape_predictor_68_face_landmarks.dat [Face Analysis]",
             "reference": "https://huggingface.co/matt3ounstable/dlib_predictor_recognition/tree/main",
             "save_path": "custom_nodes/ComfyUI_FaceAnalysis/dlib",
+            "size": "99.7MB",
             "type": "Shape Predictor",
             "url": "https://huggingface.co/matt3ounstable/dlib_predictor_recognition/resolve/main/shape_predictor_68_face_landmarks.dat"
         },
@@ -2257,6 +2493,7 @@
             "name": "dlib_face_recognition_resnet_model_v1.dat [Face Analysis]",
             "reference": "https://huggingface.co/matt3ounstable/dlib_predictor_recognition/tree/main",
             "save_path": "custom_nodes/ComfyUI_FaceAnalysis/dlib",
+            "size": "22.5MB",
             "type": "Face Recognition",
             "url": "https://huggingface.co/matt3ounstable/dlib_predictor_recognition/resolve/main/dlib_face_recognition_resnet_model_v1.dat"
         },
@@ -2267,6 +2504,7 @@
             "name": "InstanceDiffusion/fusers",
             "reference": "https://huggingface.co/logtd/instance_diffusion",
             "save_path": "instance_models/fuser_models",
+            "size": "832.1MB",
             "type": "InstanceDiffusion",
             "url": "https://huggingface.co/logtd/instance_diffusion/resolve/main/fusers.ckpt"
         },
@@ -2277,6 +2515,7 @@
             "name": "InstanceDiffusion/position_net",
             "reference": "https://huggingface.co/logtd/instance_diffusion",
             "save_path": "instance_models/positionnet_models",
+            "size": "643.2MB",
             "type": "InstanceDiffusion",
             "url": "https://huggingface.co/logtd/instance_diffusion/resolve/main/position_net.ckpt"
         },
@@ -2287,6 +2526,7 @@
             "name": "InstanceDiffusion/scaleu",
             "reference": "https://huggingface.co/logtd/instance_diffusion",
             "save_path": "instance_models/scaleu_models",
+            "size": "53.1KB",
             "type": "InstanceDiffusion",
             "url": "https://huggingface.co/logtd/instance_diffusion/resolve/main/scaleu.ckpt"
         },
@@ -2297,6 +2537,7 @@
             "name": "1k3d68.onnx",
             "reference": "https://github.com/cubiq/ComfyUI_IPAdapter_plus?tab=readme-ov-file#faceid",
             "save_path": "insightface/models/buffalo_l",
+            "size": "143.6MB",
             "type": "insightface",
             "url": "https://huggingface.co/public-data/insightface/resolve/main/models/buffalo_l/1k3d68.onnx"
         },
@@ -2307,6 +2548,7 @@
             "name": "2d106det.onnx",
             "reference": "https://github.com/cubiq/ComfyUI_IPAdapter_plus?tab=readme-ov-file#faceid",
             "save_path": "insightface/models/buffalo_l",
+            "size": "5.03MB",
             "type": "insightface",
             "url": "https://huggingface.co/public-data/insightface/resolve/main/models/buffalo_l/2d106det.onnx"
         },
@@ -2317,6 +2559,7 @@
             "name": "det_10g.onnx",
             "reference": "https://github.com/cubiq/ComfyUI_IPAdapter_plus?tab=readme-ov-file#faceid",
             "save_path": "insightface/models/buffalo_l",
+            "size": "16.9MB",
             "type": "insightface",
             "url": "https://huggingface.co/public-data/insightface/resolve/main/models/buffalo_l/det_10g.onnx"
         },
@@ -2327,6 +2570,7 @@
             "name": "genderage.onnx",
             "reference": "https://github.com/cubiq/ComfyUI_IPAdapter_plus?tab=readme-ov-file#faceid",
             "save_path": "insightface/models/buffalo_l",
+            "size": "1.32MB",
             "type": "insightface",
             "url": "https://huggingface.co/public-data/insightface/resolve/main/models/buffalo_l/genderage.onnx"
         },
@@ -2337,6 +2581,7 @@
             "name": "w600k_r50.onnx",
             "reference": "https://github.com/cubiq/ComfyUI_IPAdapter_plus?tab=readme-ov-file#faceid",
             "save_path": "insightface/models/buffalo_l",
+            "size": "174.4MB",
             "type": "insightface",
             "url": "https://huggingface.co/public-data/insightface/resolve/main/models/buffalo_l/w600k_r50.onnx"
         },
@@ -2347,6 +2592,7 @@
             "name": "BLIP ImageCaption (COCO) w/ ViT-B and CapFilt-L",
             "reference": "https://github.com/salesforce/BLIP",
             "save_path": "blip",
+            "size": "2.12GB",
             "type": "BLIP_MODEL",
             "url": "https://storage.googleapis.com/sfr-vision-language-research/BLIP/models/model_base_capfilt_large.pth"
         },
@@ -2357,6 +2603,7 @@
             "name": "GroundingDINO SwinT OGC - Model",
             "reference": "https://huggingface.co/ShilongLiu/GroundingDINO",
             "save_path": "groundingdino",
+            "size": "694.0MB",
             "type": "GroundingDINO",
             "url": "https://huggingface.co/ShilongLiu/GroundingDINO/resolve/main/groundingdino_swint_ogc.pth"
         },
@@ -2367,6 +2614,7 @@
             "name": "GroundingDINO SwinT OGC - CFG File",
             "reference": "https://huggingface.co/ShilongLiu/GroundingDINO/resolve/main/GroundingDINO_SwinT_OGC.cfg.py",
             "save_path": "groundingdino",
+            "size": "1.01KB",
             "type": "GroundingDINO",
             "url": "https://huggingface.co/ShilongLiu/GroundingDINO/raw/main/GroundingDINO_SwinT_OGC.cfg.py"
         },
@@ -2377,6 +2625,7 @@
             "name": "ViT-H SAM model",
             "reference": "https://github.com/facebookresearch/segment-anything#model-checkpoints",
             "save_path": "sams",
+            "size": "2.56GB",
             "type": "sam",
             "url": "https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth"
         },
@@ -2387,6 +2636,7 @@
             "name": "ViT-L SAM model",
             "reference": "https://github.com/facebookresearch/segment-anything#model-checkpoints",
             "save_path": "sams",
+            "size": "1.25GB",
             "type": "sam",
             "url": "https://dl.fbaipublicfiles.com/segment_anything/sam_vit_l_0b3195.pth"
         },
@@ -2397,6 +2647,7 @@
             "name": "MobileSAM",
             "reference": "https://github.com/ChaoningZhang/MobileSAM/",
             "save_path": "sams",
+            "size": "38.8MB",
             "type": "sam",
             "url": "https://github.com/ChaoningZhang/MobileSAM/blob/master/weights/mobile_sam.pt"
         },
@@ -2407,6 +2658,7 @@
             "name": "DynamiCrafter 1024 bf16 safetensors",
             "reference": "https://huggingface.co/Kijai/DynamiCrafter_pruned/",
             "save_path": "checkpoints/dynamicrafter",
+            "size": "5.22GB",
             "type": "checkpoints",
             "url": "https://huggingface.co/Kijai/DynamiCrafter_pruned/resolve/main/dynamicrafter_1024_v1_bf16.safetensors"
         },
@@ -2417,6 +2669,7 @@
             "name": "DynamiCrafter 512 interpolation bf16 safetensors",
             "reference": "https://huggingface.co/Kijai/DynamiCrafter_pruned/",
             "save_path": "checkpoints/dynamicrafter",
+            "size": "5.22GB",
             "type": "checkpoints",
             "url": "https://huggingface.co/Kijai/DynamiCrafter_pruned/resolve/main/dynamicrafter_512_interp_v1_bf16.safetensors"
         },
@@ -2427,6 +2680,7 @@
             "name": "monster-labs - Controlnet QR Code Monster v1 For SDXL",
             "reference": "https://huggingface.co/monster-labs/control_v1p_sdxl_qrcode_monster",
             "save_path": "default",
+            "size": "5.00GB",
             "type": "controlnet",
             "url": "https://huggingface.co/monster-labs/control_v1p_sdxl_qrcode_monster/resolve/main/diffusion_pytorch_model.safetensors"
         },
@@ -2437,6 +2691,7 @@
             "name": "Depth-FM-v1 fp16 safetensors",
             "reference": "https://huggingface.co/Kijai/depth-fm-pruned",
             "save_path": "checkpoints/depthfm",
+            "size": "1.73GB",
             "type": "checkpoints",
             "url": "https://huggingface.co/Kijai/depth-fm-pruned/resolve/main/depthfm-v1_fp16.safetensors"
         },
@@ -2447,6 +2702,7 @@
             "name": "Depth-FM-v1 fp32 safetensors",
             "reference": "https://huggingface.co/Kijai/depth-fm-pruned",
             "save_path": "checkpoints/depthfm",
+            "size": "3.46GB",
             "type": "checkpoints",
             "url": "https://huggingface.co/Kijai/depth-fm-pruned/resolve/main/depthfm-v1_fp32.safetensors"
         },
@@ -2457,6 +2713,7 @@
             "name": "SUPIR-v0F.ckpt",
             "reference": "https://huggingface.co/camenduru/SUPIR/tree/main",
             "save_path": "checkpoints/SUPIR",
+            "size": "5.33GB",
             "type": "checkpoints",
             "url": "https://huggingface.co/camenduru/SUPIR/resolve/main/SUPIR-v0F.ckpt"
         },
@@ -2467,6 +2724,7 @@
             "name": "SUPIR-v0Q.ckpt",
             "reference": "https://huggingface.co/camenduru/SUPIR/tree/main",
             "save_path": "checkpoints/SUPIR",
+            "size": "5.33GB",
             "type": "checkpoints",
             "url": "https://huggingface.co/camenduru/SUPIR/resolve/main/SUPIR-v0Q.ckpt"
         },
@@ -2477,6 +2735,7 @@
             "name": "Kijai/SUPIR-v0F_fp16.safetensors (pruned)",
             "reference": "https://huggingface.co/Kijai/SUPIR_pruned/tree/main",
             "save_path": "checkpoints/SUPIR",
+            "size": "2.66GB",
             "type": "checkpoints",
             "url": "https://huggingface.co/Kijai/SUPIR_pruned/resolve/main/SUPIR-v0F_fp16.safetensors"
         },
@@ -2487,6 +2746,7 @@
             "name": "Kijai/SUPIR-v0Q_fp16.safetensors (pruned)",
             "reference": "https://huggingface.co/Kijai/SUPIR_pruned/tree/main",
             "save_path": "checkpoints/SUPIR",
+            "size": "2.66GB",
             "type": "checkpoints",
             "url": "https://huggingface.co/Kijai/SUPIR_pruned/resolve/main/SUPIR-v0Q_fp16.safetensors"
         },
@@ -2497,6 +2757,7 @@
             "name": "RAM",
             "reference": "https://huggingface.co/xinyu1205/recognize_anything_model",
             "save_path": "rams",
+            "size": "5.63GB",
             "type": "RAM",
             "url": "https://huggingface.co/xinyu1205/recognize_anything_model/resolve/main/ram_swin_large_14m.pth"
         },
@@ -2507,6 +2768,7 @@
             "name": "RAM++",
             "reference": "https://huggingface.co/xinyu1205/recognize-anything-plus-model",
             "save_path": "rams",
+            "size": "3.01GB",
             "type": "RAM",
             "url": "https://huggingface.co/xinyu1205/recognize-anything-plus-model/resolve/main/ram_plus_swin_large_14m.pth"
         },
@@ -2517,6 +2779,7 @@
             "name": "tag2text",
             "reference": "https://huggingface.co/xinyu1205/recognize_anything_model",
             "save_path": "rams",
+            "size": "4.48GB",
             "type": "RAM",
             "url": "https://huggingface.co/xinyu1205/recognize_anything_model/resolve/main/tag2text_swin_14m.pth"
         },
@@ -2527,6 +2790,7 @@
             "name": "Zero123 3D object Model",
             "reference": "https://objaverse.allenai.org/docs/zero123-xl/",
             "save_path": "checkpoints/zero123",
+            "size": "15.5GB",
             "type": "Zero123",
             "url": "https://huggingface.co/kealiu/zero123-xl/resolve/main/zero123-xl.ckpt"
         },
@@ -2537,6 +2801,7 @@
             "name": "Zero123 3D object Model",
             "reference": "https://huggingface.co/stabilityai/stable-zero123",
             "save_path": "checkpoints/zero123",
+            "size": "8.58GB",
             "type": "Zero123",
             "url": "https://huggingface.co/stabilityai/stable-zero123/resolve/main/stable_zero123.ckpt"
         },
@@ -2547,6 +2812,7 @@
             "name": "Zero123 3D object Model",
             "reference": "https://huggingface.co/cvlab/zero123-weights",
             "save_path": "checkpoints/zero123",
+            "size": "15.5GB",
             "type": "Zero123",
             "url": "https://huggingface.co/cvlab/zero123-weights/resolve/main/105000.ckpt"
         },
@@ -2557,6 +2823,7 @@
             "name": "Zero123 3D object Model",
             "reference": "https://huggingface.co/cvlab/zero123-weights",
             "save_path": "checkpoints/zero123",
+            "size": "15.5GB",
             "type": "Zero123",
             "url": "https://huggingface.co/cvlab/zero123-weights/resolve/main/165000.ckpt"
         },
@@ -2567,6 +2834,7 @@
             "name": "InstantID/ip-adapter",
             "reference": "https://huggingface.co/InstantX/InstantID",
             "save_path": "instantid/SDXL",
+            "size": "1.69GB",
             "type": "instantid",
             "url": "https://huggingface.co/InstantX/InstantID/resolve/main/ip-adapter.bin"
         },
@@ -2577,6 +2845,7 @@
             "name": "InstantID/ControlNet",
             "reference": "https://huggingface.co/InstantX/InstantID",
             "save_path": "controlnet/SDXL/instantid",
+            "size": "2.50GB",
             "type": "controlnet",
             "url": "https://huggingface.co/InstantX/InstantID/resolve/main/ControlNetModel/diffusion_pytorch_model.safetensors"
         },
@@ -2587,6 +2856,7 @@
             "name": "MonsterMMORPG/insightface (for InstantID)",
             "reference": "https://huggingface.co/MonsterMMORPG/tools/tree/main",
             "save_path": "insightface/models",
+            "size": "360.7MB",
             "type": "insightface",
             "url": "https://huggingface.co/MonsterMMORPG/tools/resolve/main/antelopev2.zip"
         },
@@ -2597,6 +2867,7 @@
             "name": "IC-Light/fc",
             "reference": "https://huggingface.co/lllyasviel/ic-light",
             "save_path": "unet/IC-Light",
+            "size": "1.72GB",
             "type": "IC-Light",
             "url": "https://huggingface.co/lllyasviel/ic-light/resolve/main/iclight_sd15_fc.safetensors"
         },
@@ -2607,6 +2878,7 @@
             "name": "IC-Light/fbc",
             "reference": "https://huggingface.co/lllyasviel/ic-light",
             "save_path": "unet/IC-Light",
+            "size": "1.72GB",
             "type": "IC-Light",
             "url": "https://huggingface.co/lllyasviel/ic-light/resolve/main/iclight_sd15_fbc.safetensors"
         },
@@ -2617,6 +2889,7 @@
             "name": "IC-Light/fcon",
             "reference": "https://huggingface.co/lllyasviel/ic-light",
             "save_path": "unet/IC-Light",
+            "size": "1.72GB",
             "type": "IC-Light",
             "url": "https://huggingface.co/lllyasviel/ic-light/resolve/main/iclight_sd15_fcon.safetensors"
         },
@@ -2627,6 +2900,7 @@
             "name": "ID-Animator/animator.ckpt",
             "reference": "https://huggingface.co/spaces/ID-Animator/ID-Animator",
             "save_path": "custom_nodes/ComfyUI_ID_Animator/models",
+            "size": "247.3MB",
             "type": "ID-Animator",
             "url": "https://huggingface.co/spaces/ID-Animator/ID-Animator/resolve/main/animator.ckpt"
         },
@@ -2637,6 +2911,7 @@
             "name": "ID-Animator/mm_sd_v15_v2.ckpt",
             "reference": "https://huggingface.co/spaces/ID-Animator/ID-Animator",
             "save_path": "custom_nodes/ComfyUI_ID_Animator/models/animatediff_models",
+            "size": "1.82GB",
             "type": "ID-Animator",
             "url": "https://huggingface.co/spaces/ID-Animator/ID-Animator/resolve/main/mm_sd_v15_v2.ckpt"
         },
@@ -2647,6 +2922,7 @@
             "name": "ID-Animator/image_encoder",
             "reference": "https://huggingface.co/spaces/ID-Animator/ID-Animator",
             "save_path": "custom_nodes/ComfyUI_ID_Animator/models/image_encoder",
+            "size": "2.53GB",
             "type": "ID-Animator",
             "url": "https://huggingface.co/spaces/ID-Animator/ID-Animator/resolve/main/image_encoder/model.safetensors"
         },
@@ -2657,6 +2933,7 @@
             "name": "TencentARC/CustomNet",
             "reference": "https://huggingface.co/TencentARC/CustomNet/tree/main",
             "save_path": "custom_nodes/ComfyUI_CustomNet/pretrain",
+            "size": "5.71GB",
             "type": "CustomNet",
             "url": "https://huggingface.co/TencentARC/CustomNet/resolve/main/customnet_v1.pt"
         },
@@ -2667,6 +2944,7 @@
             "name": "TTPlanet/TTPLanet_SDXL_Controlnet_Tile_Realistic v2 (fp16)",
             "reference": "https://huggingface.co/TTPlanet/TTPLanet_SDXL_Controlnet_Tile_Realistic",
             "save_path": "controlnet/SDXL",
+            "size": "2.50GB",
             "type": "controlnet",
             "url": "https://huggingface.co/TTPlanet/TTPLanet_SDXL_Controlnet_Tile_Realistic/resolve/main/TTPLANET_Controlnet_Tile_realistic_v2_fp16.safetensors"
         },
@@ -2677,6 +2955,7 @@
             "name": "TTPlanet/TTPLanet_SDXL_Controlnet_Tile_Realistic v2 (rank256)",
             "reference": "https://huggingface.co/TTPlanet/TTPLanet_SDXL_Controlnet_Tile_Realistic",
             "save_path": "controlnet/SDXL",
+            "size": "774.4MB",
             "type": "controlnet",
             "url": "https://huggingface.co/TTPlanet/TTPLanet_SDXL_Controlnet_Tile_Realistic/resolve/main/TTPLANET_Controlnet_Tile_realistic_v2_rank256.safetensors"
         },
@@ -2687,6 +2966,7 @@
             "name": "ViperYX/RGT_x2.pth",
             "reference": "https://huggingface.co/ViperYX/RGT/tree/main",
             "save_path": "RGT/RGT",
+            "size": "179.8MB",
             "type": "RGT",
             "url": "https://huggingface.co/ViperYX/RGT/resolve/main/RGT/RGT_x2.pth"
         },
@@ -2697,6 +2977,7 @@
             "name": "ViperYX/RGT_x3.pth",
             "reference": "https://huggingface.co/ViperYX/RGT/tree/main",
             "save_path": "RGT/RGT",
+            "size": "180.5MB",
             "type": "RGT",
             "url": "https://huggingface.co/ViperYX/RGT/resolve/main/RGT/RGT_x3.pth"
         },
@@ -2707,6 +2988,7 @@
             "name": "ViperYX/RGT_x4.pth",
             "reference": "https://huggingface.co/ViperYX/RGT/tree/main",
             "save_path": "RGT/RGT",
+            "size": "180.4MB",
             "type": "RGT",
             "url": "https://huggingface.co/ViperYX/RGT/resolve/main/RGT/RGT_x4.pth"
         },
@@ -2717,6 +2999,7 @@
             "name": "ViperYX/RGT_S_x2.pth",
             "reference": "https://huggingface.co/ViperYX/RGT/tree/main",
             "save_path": "RGT/RGT_S",
+            "size": "135.4MB",
             "type": "RGT",
             "url": "https://huggingface.co/ViperYX/RGT/resolve/main/RGT_S/RGT_S_x2.pth"
         },
@@ -2727,6 +3010,7 @@
             "name": "ViperYX/RGT_S_x3.pth",
             "reference": "https://huggingface.co/ViperYX/RGT/tree/main",
             "save_path": "RGT/RGT_S",
+            "size": "136.1MB",
             "type": "RGT",
             "url": "https://huggingface.co/ViperYX/RGT/resolve/main/RGT_S/RGT_S_x3.pth"
         },
@@ -2737,6 +3021,7 @@
             "name": "ViperYX/RGT_S_x4.pth",
             "reference": "https://huggingface.co/ViperYX/RGT/tree/main",
             "save_path": "RGT/RGT_S",
+            "size": "136.0MB",
             "type": "RGT",
             "url": "https://huggingface.co/ViperYX/RGT/resolve/main/RGT_S/RGT_S_x4.pth"
         },
@@ -2747,6 +3032,7 @@
             "name": "Doubiiu/ToonCrafter model checkpoint",
             "reference": "https://huggingface.co/Doubiiu/ToonCrafter/tree/main",
             "save_path": "custom_nodes/ComfyUI-ToonCrafter/ToonCrafter/checkpoints/tooncrafter_512_interp_v1",
+            "size": "10.5GB",
             "type": "checkpoint",
             "url": "https://huggingface.co/Doubiiu/ToonCrafter/resolve/main/model.ckpt"
         },
@@ -2757,6 +3043,7 @@
             "name": "xinsir/Controlnet-Scribble-Sdxl-1.0",
             "reference": "https://huggingface.co/xinsir/controlnet-scribble-sdxl-1.0",
             "save_path": "controlnet/SDXL/controlnet-scribble-sdxl-1.0",
+            "size": "2.50GB",
             "type": "controlnet",
             "url": "https://huggingface.co/xinsir/controlnet-scribble-sdxl-1.0/resolve/main/diffusion_pytorch_model.safetensors"
         },
@@ -2767,6 +3054,7 @@
             "name": "xinsir/Controlnet-Canny-Sdxl-1.0 (V2)",
             "reference": "https://huggingface.co/xinsir/controlnet-canny-sdxl-1.0",
             "save_path": "controlnet/SDXL/controlnet-canny-sdxl-1.0",
+            "size": "2.50GB",
             "type": "controlnet",
             "url": "https://huggingface.co/xinsir/controlnet-canny-sdxl-1.0/resolve/main/diffusion_pytorch_model_V2.safetensors"
         },
@@ -2777,6 +3065,7 @@
             "name": "xinsir/Controlnet-Openpose-Sdxl-1.0",
             "reference": "https://huggingface.co/xinsir/controlnet-openpose-sdxl-1.0",
             "save_path": "controlnet/SDXL/controlnet-openpose-sdxl-1.0",
+            "size": "2.50GB",
             "type": "controlnet",
             "url": "https://huggingface.co/xinsir/controlnet-openpose-sdxl-1.0/resolve/main/diffusion_pytorch_model.safetensors"
         },
@@ -2787,6 +3076,7 @@
             "name": "xinsir/Controlnet-Openpose-Sdxl-1.0 (Ver. twins)",
             "reference": "https://huggingface.co/xinsir/controlnet-openpose-sdxl-1.0",
             "save_path": "controlnet/SDXL/controlnet-openpose-sdxl-1.0",
+            "size": "2.50GB",
             "type": "controlnet",
             "url": "https://huggingface.co/xinsir/controlnet-openpose-sdxl-1.0/resolve/main/diffusion_pytorch_model_twins.safetensors"
         },
@@ -2797,6 +3087,7 @@
             "name": "xinsir/Controlnet-Scribble-Sdxl-1.0-Anime",
             "reference": "https://huggingface.co/xinsir/anime-painter",
             "save_path": "controlnet/SDXL/controlnet-scribble-sdxl-1.0-anime",
+            "size": "2.50GB",
             "type": "controlnet",
             "url": "https://huggingface.co/xinsir/anime-painter/resolve/main/diffusion_pytorch_model.safetensors"
         },
@@ -2807,6 +3098,7 @@
             "name": "Kijai/ToonCrafter model checkpoint (interpolation fp16)",
             "reference": "https://huggingface.co/Kijai/DynamiCrafter_pruned",
             "save_path": "checkpoints/ToonCrafter",
+            "size": "5.25GB",
             "type": "checkpoint",
             "url": "https://huggingface.co/Kijai/DynamiCrafter_pruned/resolve/main/tooncrafter_512_interp-fp16.safetensors"
         },
@@ -2817,6 +3109,7 @@
             "name": "CN-anytest_v4-marged.safetensors",
             "reference": "https://huggingface.co/2vXpSwA7/iroiro-lora/tree/main",
             "save_path": "controlnet/SDXL",
+            "size": "2.50GB",
             "type": "controlnet",
             "url": "https://huggingface.co/2vXpSwA7/iroiro-lora/resolve/main/test_controlnet2/CN-anytest_v4-marged.safetensors"
         },
@@ -2827,6 +3120,7 @@
             "name": "CN-anytest_v4-marged_am_dim256.safetensors (dim256/Animagine)",
             "reference": "https://huggingface.co/2vXpSwA7/iroiro-lora/tree/main",
             "save_path": "controlnet/SDXL",
+            "size": "774.4MB",
             "type": "controlnet",
             "url": "https://huggingface.co/2vXpSwA7/iroiro-lora/resolve/main/test_controlnet2/CN-anytest_v4-marged_am_dim256.safetensors"
         },
@@ -2837,6 +3131,7 @@
             "name": "CN-anytest_v4-marged_am_dim128.safetensors (dim128/Animagine)",
             "reference": "https://huggingface.co/2vXpSwA7/iroiro-lora/tree/main",
             "save_path": "controlnet/SDXL",
+            "size": "395.7MB",
             "type": "controlnet",
             "url": "https://huggingface.co/2vXpSwA7/iroiro-lora/resolve/main/test_controlnet2/CN-anytest_v4-marged_am_dim128.safetensors"
         },
@@ -2847,6 +3142,7 @@
             "name": "CN-anytest_v4-marged_pn_dim256.safetensors (dim256/Pony)",
             "reference": "https://huggingface.co/2vXpSwA7/iroiro-lora/tree/main",
             "save_path": "controlnet/SDXL",
+            "size": "774.4MB",
             "type": "controlnet",
             "url": "https://huggingface.co/2vXpSwA7/iroiro-lora/resolve/main/test_controlnet2/CN-anytest_v4-marged_pn_dim256.safetensors"
         },
@@ -2857,6 +3153,7 @@
             "name": "CN-anytest_v4-marged_pn_dim128.safetensors (dim128/Pony)",
             "reference": "https://huggingface.co/2vXpSwA7/iroiro-lora/tree/main",
             "save_path": "controlnet/SDXL",
+            "size": "395.7MB",
             "type": "controlnet",
             "url": "https://huggingface.co/2vXpSwA7/iroiro-lora/resolve/main/test_controlnet2/CN-anytest_v4-marged_pn_dim128.safetensors"
         },
@@ -2867,6 +3164,7 @@
             "name": "CN-anytest_v3-50000_fp16.safetensors (fp16)",
             "reference": "https://huggingface.co/2vXpSwA7/iroiro-lora/tree/main",
             "save_path": "controlnet/SDXL",
+            "size": "2.50GB",
             "type": "controlnet",
             "url": "https://huggingface.co/2vXpSwA7/iroiro-lora/resolve/main/test_controlnet2/CN-anytest_v3-50000_fp16.safetensors"
         },
@@ -2877,6 +3175,7 @@
             "name": "CN-anytest_v3-50000_am_dim256.safetensors (dim256/Animagine)",
             "reference": "https://huggingface.co/2vXpSwA7/iroiro-lora/tree/main",
             "save_path": "controlnet/SDXL",
+            "size": "774.4MB",
             "type": "controlnet",
             "url": "https://huggingface.co/2vXpSwA7/iroiro-lora/resolve/main/test_controlnet2/CN-anytest_v3-50000_am_dim256.safetensors"
         },
@@ -2887,6 +3186,7 @@
             "name": "CN-anytest_v3-50000_am_dim128.safetensors (dim128/Animagine)",
             "reference": "https://huggingface.co/2vXpSwA7/iroiro-lora/tree/main",
             "save_path": "controlnet/SDXL",
+            "size": "395.7MB",
             "type": "controlnet",
             "url": "https://huggingface.co/2vXpSwA7/iroiro-lora/resolve/main/test_controlnet2/CN-anytest_v3-50000_am_dim128.safetensors"
         },
@@ -2897,6 +3197,7 @@
             "name": "CN-anytest_v3-50000_pn_dim256.safetensors (dim256/Pony)",
             "reference": "https://huggingface.co/2vXpSwA7/iroiro-lora/tree/main",
             "save_path": "controlnet/SDXL",
+            "size": "774.4MB",
             "type": "controlnet",
             "url": "https://huggingface.co/2vXpSwA7/iroiro-lora/resolve/main/test_controlnet2/CN-anytest_v3-50000_pn_dim256.safetensors"
         },
@@ -2907,6 +3208,7 @@
             "name": "CN-anytest_v3-50000_pn_dim128.safetensors (dim128/Pony)",
             "reference": "https://huggingface.co/2vXpSwA7/iroiro-lora/tree/main",
             "save_path": "controlnet/SDXL",
+            "size": "395.7MB",
             "type": "controlnet",
             "url": "https://huggingface.co/2vXpSwA7/iroiro-lora/resolve/main/test_controlnet2/CN-anytest_v3-50000_pn_dim128.safetensors"
         },
@@ -2917,6 +3219,7 @@
             "name": "kijai/DepthAnythingV2 (vitb/fp16)",
             "reference": "https://huggingface.co/Kijai/DepthAnythingV2-safetensors/tree/main",
             "save_path": "depthanything",
+            "size": "195.0MB",
             "type": "depthanything",
             "url": "https://huggingface.co/Kijai/DepthAnythingV2-safetensors/resolve/main/depth_anything_v2_vitb_fp16.safetensors"
         },
@@ -2927,6 +3230,7 @@
             "name": "kijai/DepthAnythingV2 (vitb/fp32)",
             "reference": "https://huggingface.co/Kijai/DepthAnythingV2-safetensors/tree/main",
             "save_path": "depthanything",
+            "size": "389.9MB",
             "type": "depthanything",
             "url": "https://huggingface.co/Kijai/DepthAnythingV2-safetensors/resolve/main/depth_anything_v2_vitb_fp32.safetensors"
         },
@@ -2937,6 +3241,7 @@
             "name": "kijai/DepthAnythingV2 (vitl/fp16)",
             "reference": "https://huggingface.co/Kijai/DepthAnythingV2-safetensors/tree/main",
             "save_path": "depthanything",
+            "size": "670.7MB",
             "type": "depthanything",
             "url": "https://huggingface.co/Kijai/DepthAnythingV2-safetensors/resolve/main/depth_anything_v2_vitl_fp16.safetensors"
         },
@@ -2947,6 +3252,7 @@
             "name": "kijai/DepthAnythingV2 (vitl/fp32)",
             "reference": "https://huggingface.co/Kijai/DepthAnythingV2-safetensors/tree/main",
             "save_path": "depthanything",
+            "size": "1.34GB",
             "type": "depthanything",
             "url": "https://huggingface.co/Kijai/DepthAnythingV2-safetensors/resolve/main/depth_anything_v2_vitl_fp32.safetensors"
         },
@@ -2957,6 +3263,7 @@
             "name": "kijai/DepthAnythingV2 (vits/fp16)",
             "reference": "https://huggingface.co/Kijai/DepthAnythingV2-safetensors/tree/main",
             "save_path": "depthanything",
+            "size": "49.6MB",
             "type": "depthanything",
             "url": "https://huggingface.co/Kijai/DepthAnythingV2-safetensors/resolve/main/depth_anything_v2_vits_fp16.safetensors"
         },
@@ -2967,8 +3274,20 @@
             "name": "kijai/DepthAnythingV2 (vitb/fp32)",
             "reference": "https://huggingface.co/Kijai/DepthAnythingV2-safetensors/tree/main",
             "save_path": "depthanything",
+            "size": "99.2MB",
             "type": "depthanything",
             "url": "https://huggingface.co/Kijai/DepthAnythingV2-safetensors/resolve/main/depth_anything_v2_vits_fp32.safetensors"
+        },
+        {
+            "base": "pixart-sigma",
+            "description": "[2.47GB] PixArt-Sigma Checkpoint model",
+            "filename": "PixArt-Sigma-XL-2-1024-MS.pth",
+            "name": "PixArt-Sigma-XL-2-1024-MS.pth",
+            "reference": "https://huggingface.co/PixArt-alpha/PixArt-Sigma/tree/main",
+            "save_path": "checkpoints/PixArt-Sigma",
+            "size": "2.47GB",
+            "type": "checkpoint",
+            "url": "https://huggingface.co/PixArt-alpha/PixArt-Sigma/resolve/main/PixArt-Sigma-XL-2-1024-MS.pth"
         }
     ]
 }

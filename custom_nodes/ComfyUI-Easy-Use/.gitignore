@@ -1,0 +1,15 @@
+__pycache__
+.DS_Store
+*.cache
+*.ini
+*.bak
+wildcards/**
+styles/**
+workflow/**
+autocomplete/**
+docs/**
+.vscode/
+.idea/
+mmb-preset.custom.txt
+config.yaml
+node.tar.gz
